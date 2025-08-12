@@ -77,7 +77,7 @@ Para explorar más después de completar la presentación, prueba estos prompts 
 
 ---
 
-**Próxima actividad:** [Conociendo el texto](./conociendo-el-texto.md)** donde te presentaremos el texto que traducirás durante esta semana.
+**Próxima actividad:** [Conocer el texto](conocer-el-texto.md)** donde te presentaremos el texto que traducirás durante esta semana.
 
 **Tiempo estimado**: 60-90 minutos
 **Modalidad**: Individual, preparación para discusión grupal
