@@ -81,4 +81,4 @@ Para explorar más después de completar la presentación, prueba estos prompts 
 
 ---
 
-**Próxima actividad:** [Conocer el texto](conocer-el-texto.md)** donde te presentaremos el texto que traducirás durante esta semana.
+**Próxima actividad:** [Conocer el texto](conocer-el-texto.md) donde te presentaremos el texto que traducirás durante esta semana.
