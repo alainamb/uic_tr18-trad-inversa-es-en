@@ -59,7 +59,7 @@ La presentación cubre los siguientes temas principales:
 
 ## Recursos consultados
 
-Las obras consultadas mencionadas en la presentación están disponibles a través de un enlace o en la carpeta [referencias](/unidad1/semana1/referencias/) para referencia adicional:
+Las obras consultadas mencionadas en la presentación están disponibles a través de un enlace o en la carpeta [referencias](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/tree/main/unidad1/semana1/referencias) para referencia adicional:
 
 - [ISO 17100 Translation Services-Requirements for Translation Services](https://www.iso.org/obp/ui/en/#iso:std:iso:17100:ed-1:v1:en)
 - [Interagency Language Roundtable - Language Skill Level Descriptions](https://govtilr.org/Skills/ILRscale4.htm)
