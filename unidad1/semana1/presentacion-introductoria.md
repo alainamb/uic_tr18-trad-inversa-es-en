@@ -1,3 +1,11 @@
+---
+layout: default
+title: Presentación Introductoria
+parent: Semana 1
+grand_parent: Unidad 1
+nav_order: 1
+---
+
 # Presentación Introductoria: La traducción inversa
 
 Esta presentación ofrece una introducción completa a la traducción inversa (español>inglés), explorando sus justificaciones, competencias necesarias y oportunidades en el campo laboral actual.
