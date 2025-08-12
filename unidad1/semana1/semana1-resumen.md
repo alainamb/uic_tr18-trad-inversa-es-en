@@ -22,8 +22,8 @@ Esta semana nos enfocamos en los fundamentos de la traducción inversa, exploran
 ## Actividades en Clase
 
 ### Actividades bajo Conducción Docente (Martes 9-11am)
-- La traducción inversa: Presentación + diálogo sobre oportunidades profesionales
 - Presentación de la guía de aprendizaje para la clase + Preguntas y respuestas
+- La traducción inversa: Presentación + diálogo sobre oportunidades profesionales
 - Presentación del Texto 1 - Inmigración para traducción: análisis del documento fuente
 
 ## Actividades Independientes
