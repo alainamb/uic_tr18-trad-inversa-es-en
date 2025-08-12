@@ -39,8 +39,9 @@ Este proyecto refleja la creencia de que las barreras educativas deben ser minim
 │   ├── unidad1-conclusion.md # Cierre y reflexión de la unidad
 │   ├── semana1/             # Fundamentos de traducción inversa
 │   │   ├── semana1-resumen.md
-│   │   ├── mercado-laboral-discusion.md
-│   │   ├── especificaciones-actividad.md
+│   │   ├── presentacion-introductoria.md
+│   │   ├── conocer-el-texto.md
+│   │   ├── proyecto-texto1.md
 │   │   └── texto1-inmigracion.md
 │   ├── semana2/             # Especificaciones y contraste morfosintáctico
 │   │   └── semana2-resumen.md
