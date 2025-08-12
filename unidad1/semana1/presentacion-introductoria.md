@@ -71,7 +71,7 @@ Las obras consultadas mencionadas en la presentación están disponibles a trav�
 
 ## 📥 Descarga esta Actividad
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/tu-usuario/tr18-traduccion-inversa/blob/main/week1/presentacion-introductoria.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana1/presentacion-introductoria.md) y descárgalo.
 
 Para explorar más después de completar la presentación, prueba estos prompts con tu herramienta de IA preferida:
 
