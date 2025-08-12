@@ -8,6 +8,10 @@ nav_order: 2
 
 # Conocer el Texto
 
+**Tiempo estimado**: 45 minutos
+
+**Modalidad**: Actividad en grupos
+
 En esta actividad colaborativa, trabajarás en grupos pequeños para familiarizarte con el texto que traducirás esta semana. A través de un análisis sistemático, identificarás patrones culturales, lingüísticos y estructurales que serán clave para tu traducción inversa.
 
 ## El texto de trabajo
