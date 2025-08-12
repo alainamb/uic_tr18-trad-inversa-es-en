@@ -44,7 +44,7 @@ La mayoría de las tareas en este curso son grupales, y frecuentemente habrá ac
 - **Contribuir equitativamente** a todas las asignaciones grupales y entregables
 - **Comunicarse activamente** con los compañeros de equipo sobre el progreso y los desafíos
 
-**Consecuencias por No Participación:**
+**Consecuencias por No Participación**
 - **Tomar crédito por trabajo al que no contribuiste no es tolerado** en esta clase
 - Si no contribuyes a una asignación grupal, recibirás **0 puntos** para esa asignación
 - **Ofensas repetidas** pueden resultar en que seas removido de un grupo y **reprobar la clase**
@@ -53,20 +53,20 @@ La mayoría de las tareas en este curso son grupales, y frecuentemente habrá ac
 
 Este curso fomenta la integración reflexiva de herramientas de IA como parte de tu proceso de aprendizaje, particularmente para mejorar tu comprensión de los materiales del curso y practicar conceptos de traducción.
 
-**Uso Aprobado de IA:**
+**Uso Aprobado de IA**
 - **Primero, desarrolla tus propios pensamientos:** Redacta tus respuestas iniciales y forma tus propias opiniones antes de consultar herramientas de IA
 - **Luego mejora con IA:** Usa IA para refinar, expandir o fortalecer tu trabajo después de haber establecido tu propia base
 - **Cita el uso de IA:** Cuando se utilicen herramientas de IA para las tareas, cita claramente la tecnología utilizada y explica tus modificaciones
 
-**Principio Importante:**  
+**Principio Importante**  
 Ser capaz de formar tu propia opinión sin influencia de IA y luego fortalecerla a través de asistencia de IA es una habilidad profesional crucial. **Evita la influencia temprana de IA** que podría impedir que desarrolles pensamiento analítico independiente.
 
-**Para Trabajo de Tareas:**
+**Para Trabajo de Tareas**
 - Completa tu borrador inicial y pensamiento independientemente
 - Usa IA como herramienta de revisión y mejora, no como punto de partida
 - Siempre mantén tu voz auténtica y perspectiva en las entregas finales
 
-**Restricciones Específicas para Traducción:**
+**Restricciones Específicas para Traducción**
 - **No se permite el uso de traducción automática o IA generativa** en las traducciones humanas convencionales, excepto cuando la tarea específicamente lo requiera
 - En estos casos, deberás citar la tecnología utilizada y explicar tus modificaciones
 - La **evaluación de traducciones** se enfoca en tu competencia traductora personal
