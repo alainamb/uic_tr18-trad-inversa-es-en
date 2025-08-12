@@ -117,7 +117,7 @@ Crearás un glosario bilingüe inicial que refleje la terminología importante q
 
 #### Estructura de la Base de Datos
 | Term - ES | Definición | Fuente | Notas | Term - EN | Definición | Fuente | Notas |
-|-----------|------------|--------|-------|-----------|------------|--------|-------|
+|:-----------|:------------|:--------|:-------|:-----------|:------------|:--------|:-------|
 | traducción | acto de... | Autor ABC | | translation | act of... | Author XYZ | |
 
 #### Entrega
