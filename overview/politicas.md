@@ -9,7 +9,7 @@ nav_order: 3
 
 ## Asistencia y Participación
 
-Gran parte del éxito se mide simplemente en estar donde uno necesita estar en el momento adecuado. Otra medida importante del éxito es estar preparado para las reuniones y compartir la perspectiva de uno.
+Gran parte del éxito se mide simplemente en estar donde uno necesita estar en el momento adecuado. Otra medida importante del éxito es estar preparado para las reuniones y compartir la perspectiva de una o uno.
 
 **Calificación de Asistencia y Participación:**
 - **2 puntos por clase:** 1 punto por asistir + 1 punto por participar activamente con preparación clara
