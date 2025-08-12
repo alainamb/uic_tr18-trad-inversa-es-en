@@ -78,6 +78,9 @@ El curso concluye con un proyecto integrador que sintetiza el conocimiento y las
 **17 semanas en total**  
 **5 unidades** con 3 temas por unidad más el proyecto integrador
 
+## Flujo de Trabajo Cada Semana
+**Las clases se imparten los martes** con materiales disponibles el lunes previo. Las tareas deberán entregarse los domingos siguientes a cada clase.
+
 ## Tecnologías y Herramientas
 
 Durante el curso trabajarás con tecnologías profesionales de traducción:
