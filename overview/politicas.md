@@ -11,15 +11,15 @@ nav_order: 3
 
 Gran parte del éxito se mide simplemente en estar donde uno necesita estar en el momento adecuado. Otra medida importante del éxito es estar preparado para las reuniones y compartir la perspectiva de una o uno.
 
-**Calificación de Asistencia y Participación:**
+**Calificación de Asistencia y Participación**
 - **2 puntos por clase:** 1 punto por asistir + 1 punto por participar activamente con preparación clara
 - **1 punto:** Asistir pero no participar O asistir pero claramente sin preparación
 - **0 puntos:** No asistir a clase
 
-**Política de Ausencias:**  
+**Política de Ausencias**  
 Podrás faltar hasta **una clase** sin perder puntos, siempre que hayas justificado tu ausencia con antelación o en casos de emergencia médica o familiar. En caso de emergencia, deberás notificar a la profesora por correo electrónico tan pronto como sea posible.
 
-**Detalles de Asistencia:**
+**Detalles de Asistencia**
 - **17 reuniones totales** durante el semestre
 - **Seguimiento de asistencia comienza en la Semana 2** (16 reuniones evaluadas)
 - Los estudiantes pueden faltar **1 clase** sin perder puntos
@@ -29,17 +29,17 @@ Podrás faltar hasta **una clase** sin perder puntos, siempre que hayas justific
 
 Podrás entregar hasta **dos trabajos fuera de plazo** sin que ello afecte a tu calificación, siempre que hayas acordado previamente con la profesora del curso la entrega fuera de plazo, o en casos de emergencia.
 
-**Lineamientos para Entrega Tardía:**
+**Lineamientos para Entrega Tardía**
 - Los trabajos entregados fuera de plazo deberán entregarse en un plazo de **cinco días hábiles** a partir de la fecha límite original para que se le conceda un crédito total o parcial
 - Si no se ha acordado previamente la entrega tardía de las tareas:
-  - **Tareas generales:** Se perderá el **veinte por ciento** del total de puntos disponibles para la tarea **por día**
+  - **Tareas generales:** Se perderá el **1 punto** del total de puntos disponibles para la tarea **cada dos días**
   - **Exámenes parciales:** Se perderá el **veinte por ciento** del total de puntos disponibles **por día**
 
 ## Política de Trabajo en Grupo
 
-Aunque la mayoría de las tareas en este curso son individuales, ocasionalmente habrá actividades colaborativas y discusiones grupales durante las clases.
+La mayoría de las tareas en este curso son grupales, y frecuentemente habrá actividades colaborativas y discusiones grupales durante las clases.
 
-**Expectativas del Trabajo en Grupo:**
+**Expectativas del Trabajo en Grupo**
 - **Asistir a todas las reuniones grupales** durante las clases y contribuir significativamente al trabajo del equipo
 - **Contribuir equitativamente** a todas las asignaciones grupales y entregables
 - **Comunicarse activamente** con los compañeros de equipo sobre el progreso y los desafíos
@@ -75,32 +75,30 @@ Ser capaz de formar tu propia opinión sin influencia de IA y luego fortalecerla
 
 El crédito extra está diseñado para recompensar el esfuerzo excepcional y la consistencia, no para reemplazar el trabajo regular perdido. Los estudiantes que asisten consistentemente y completan las tareas no deberían necesitar crédito extra para tener éxito.
 
-**Crédito Extra por Asistencia Perfecta (2 puntos):**
+**Crédito Extra por Asistencia Perfecta (2 puntos)**
 - El seguimiento de asistencia comienza en la Semana 2 (16 reuniones totales)
 - Los estudiantes pueden faltar hasta 1 clase sin perder puntos
 - Los estudiantes que asistan a las **16 reuniones restantes** obtienen **2 puntos de crédito extra**
 
-**Crédito Extra por Completar Todas las Tareas (3 puntos):**
+**Crédito Extra por Completar Todas las Tareas (3 puntos)**
 - Hay **11 tareas** en la clase con valor de 3 puntos cada una
 - Los estudiantes que completen las **11 tareas** obtienen **3 puntos de crédito extra**
 - Los estudiantes pueden elegir omitir **1 tarea** y aún obtener los puntos completos de tareas (30 puntos)
 
-**Limitaciones del Crédito Extra:**
+**Limitaciones del Crédito Extra**
 - Máximo **5 puntos totales** (5% de la calificación final)
-- No puede exceder el 100% en el curso
-- Sin crédito extra disponible durante las Semanas 16-17 (período del proyecto final)
 
 ## Integridad Académica
 
 En este curso la mayoría de las tareas son individuales y debes entregar trabajo original. Esto significa que, aunque puedes y debes citar tus fuentes, el trabajo debe reflejar tu propio análisis y perspectiva.
 
-**Restricciones de Traducción Automática:**  
+**Restricciones de Traducción Automática**  
 No se permite el uso de traducción automática o IA generativa en las traducciones humanas convencionales, excepto cuando la tarea específicamente lo requiera. En estos casos, deberás citar la tecnología utilizada y explicar tus modificaciones.
 
-**Respecto al Trabajo en Equipo:**  
+**Respecto al Trabajo en Equipo**  
 Todos los miembros deben contribuir equitativamente a las tareas grupales. Si tomas crédito por trabajo grupal al que no has contribuido, puedes perder entre 10 y 20 por ciento o más de tu calificación final, además de enfrentar consecuencias más graves dependiendo de la naturaleza de la infracción.
 
-**Consecuencias del Plagio:**  
+**Consecuencias del Plagio**  
 El plagio de trabajos de otros estudiantes o de recursos en línea, así como la entrega de trabajo no original, resultará en una calificación de cero en la tarea y será reportado al director del programa, pudiendo tener consecuencias adicionales.
 
 ## Consejos para el Éxito
@@ -117,18 +115,18 @@ El plagio de trabajos de otros estudiantes o de recursos en línea, así como la
 
 ## Consideraciones Especiales del Curso
 
-**Horario de Clases:**
+**Horario de Clases**
 - **Una clase por semana:** Martes, 9-11am
 - **Materiales disponibles:** Lunes previo a cada clase
 - **Fechas de entrega:** Domingos siguientes a cada clase
 
-**Tecnologías del Curso:**
+**Tecnologías del Curso**
 - **Lilt:** Licencias proporcionadas por el programa
 - **Label Studio:** Para evaluación de calidad
-- **Corpus especializados:** Proporcionados por área temática
 
 **Flujo de Trabajo Profesional:**
 - **Especificaciones técnicas:** Basadas en estándares ASTM
+- **Corpus especializados:** Proporcionados por área temática
 - **Evaluación con Marco MQM:** Sistema profesional de clasificación de errores
 - **Desarrollo progresivo:** Cada unidad construye sobre la anterior
 
