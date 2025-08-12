@@ -141,11 +141,6 @@ Se comprobarán los errores de tu traducción en las áreas de:
 - **Convenciones locales**
 - **Adecuación del público**
 
-**Sistema de Puntuación MQM**:
-- Se deducirá **0.1 puntos** por errores menores
-- Se deducirá **0.5 puntos** por errores mayores  
-- Se deducirá **1 punto** por errores críticos
-
 **Calificaciones**:
 - 5 puntos - Excelente
 - 4 puntos - Muy bien
