@@ -91,7 +91,7 @@ Una vez completado el análisis grupal, tendrás una base sólida para abordar l
 
 ## 📥 Descarga esta Actividad
 
-Encuentra este archivo [en nuestro repositorio](https://github.com/tu-usuario/tr18-traduccion-inversa/blob/main/unidad1/semana1/conocer-el-texto.md) y descárgalo.
+Encuentra este archivo [en nuestro repositorio](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad1/semana1/conocer-el-texto.md) y descárgalo.
 
 Para profundizar en tu análisis después de la clase, prueba estos prompts con tu herramienta de IA preferida:
 
