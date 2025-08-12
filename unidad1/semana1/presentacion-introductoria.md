@@ -9,6 +9,7 @@ nav_order: 1
 # Presentación Introductoria: La traducción inversa
 
 **Tiempo estimado**: 30 minutos
+
 **Modalidad**: Actividad para la clase
 
 Esta presentación ofrece una introducción completa a la traducción inversa (español>inglés), explorando sus justificaciones, competencias necesarias y oportunidades en el campo laboral actual.
