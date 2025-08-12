@@ -8,7 +8,7 @@ nav_order: 1
 
 # Presentación Introductoria: La traducción inversa
 
-**Tiempo estimado**: 30 minutos
+**Tiempo estimado**: 30-45 minutos
 
 **Modalidad**: Actividad para la clase
 
