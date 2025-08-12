@@ -1,0 +1,44 @@
+title: "UIC TR18"
+description: "TR35: Traducción Inversa ES>EN - Otoño 2025, Universidad Intercontinental - Ciudad de México"
+
+# Use Just the Docs theme for sidebar navigation
+remote_theme: just-the-docs/just-the-docs
+
+# Color scheme (optional)
+color_scheme: light
+
+# Enable search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+
+# Navigation structure
+nav_sort: case_insensitive
+
+# Footer
+footer_content: "Copyright &copy; 2025 Alaina Brandt. Materiales del curso para uso educativo."
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# Exclude files from processing
+exclude:
+  - node_modules/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
