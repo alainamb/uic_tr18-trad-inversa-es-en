@@ -111,7 +111,7 @@ Practica visitando [nuestro repositorio](https://github.com/alainamb/uic_tr18-tr
 ---
 
 ### 🚀 ¿Listo para Comenzar?
-Revisa la [Descripción Completa del Curso](overview/overview.md) incluyendo políticas y detalles del proyecto, o comienza directamente con la [Unidad 1: Traducción Inversa y Textos Generales](unit1/unit1-overview.md).
+Revisa la [Descripción General del Curso](overview/overview.md) incluyendo políticas y detalles del proyecto, o comienza directamente con la [Unidad 1: Traducción Inversa y Textos Generales](unit1/unit1-overview.md).
 
 **Las clases se imparten los martes** con materiales disponibles el lunes previo. Las tareas deberán entregarse los domingos siguientes a cada clase.
 
