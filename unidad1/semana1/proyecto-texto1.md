@@ -99,4 +99,4 @@ Para mejorar tu traducción, prueba estos prompts con tu herramienta de IA prefe
 
 ---
 
-**¡Semana 1 Completa!** La próxima semana exploraremos: [Especificaciones y Contraste Morfosintáctico](/unidad1/semana2/semana2-resumen.md)
+**¡Semana 1 Completa!** La próxima semana exploraremos: [Especificaciones y Contraste Morfosintáctico](/unidad1/semana2/)
