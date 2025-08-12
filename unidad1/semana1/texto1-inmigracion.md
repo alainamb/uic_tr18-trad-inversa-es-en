@@ -60,7 +60,7 @@ La hoja de ayuda se deberá llenar atendiendo a las siguientes especificaciones:
 
 ### Opciones para realizar tu trámite
 
-**En línea:** Empieza tu [solicitud en línea](https://www.inm.gob.mx/mpublic/publico/inm-tramites.html?a=thgeGuQHx2k%3D&tr=XjM%2B2K7Q2XQ%3D&h_sdp00=giUnJ9XgtISVcdYJXduIGw%3D%3D), imprime e ingresa de manera presencial.
+**En línea:** Empieza tu solicitud en línea, imprime e ingresa de manera presencial.
 
 **Presencial:** En la [oficina de atención a trámites del Instituto](http://www.inm.gob.mx/gobmx/word/index.php/horarios-y-oficinas/) que corresponda al domicilio del interesado. En caso de que la ubicación de la Oficina de Representación que le corresponda sea lejana, se sugiere contactar vía telefónica a ésta, solicitando informes por una oficina del INM más cercana a su domicilio.
 
