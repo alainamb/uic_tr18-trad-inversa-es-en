@@ -29,7 +29,7 @@ La presentación cubre los siguientes temas principales:
 
 ## Instrucciones
 
-1. **Descarga y revisa la presentación** que se encuentra en la carpeta para [semana 1](/semana1/) de nuestro sitio del curso.
+1. **Descarga y revisa la presentación** que se encuentra en la carpeta para [semana 1](/unidad1/semana1/) de nuestro sitio del curso.
 
 2. **Lee cada sección** de la presentación, tomando notas sobre los conceptos clave.
 
