@@ -57,10 +57,9 @@ Demostrarás tu dominio de las tareas relacionadas con la traducción mediante u
 - **Entrega Final**: Traducción y justificaciones (Semanas 16-17)
 
 ## 📋 Evaluación General
-- **Asistencia**: 15% (1 punto semanal)
-- **Participación**: 15% (1 punto semanal)
-- **Prácticas de traducción y tareas**: 30% (12 tareas × 3 puntos cada una)
-- **Evaluaciones parciales**: 30% (3 evaluaciones × 10% cada una)
+- **Asistencia y participación**: 30% (2 puntos semanales, 15 semanas requeridas de 16 disponibles)
+- **Tareas generales**: 30% (12 tareas × 3 puntos cada una)
+- **Evaluaciones parciales**: 30% (10 tareas × 3 puntos cada una de 11 disponibles)
 - **Proyecto final**: 10% (Flujo de trabajo completo)
 
 ## 🛠️ Tecnologías y Herramientas
