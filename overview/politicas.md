@@ -113,23 +113,6 @@ El plagio de trabajos de otros estudiantes o de recursos en línea, así como la
 
 - La profesora responde mensajes durante días hábiles por Teams o correo electrónico.
 
-## Consideraciones Especiales del Curso
-
-**Horario de Clases**
-- **Una clase por semana:** Martes, 9-11am
-- **Materiales disponibles:** Lunes previo a cada clase
-- **Fechas de entrega:** Domingos siguientes a cada clase
-
-**Tecnologías del Curso**
-- **Lilt:** Licencias proporcionadas por el programa
-- **Label Studio:** Para evaluación de calidad
-
-**Flujo de Trabajo Profesional:**
-- **Especificaciones técnicas:** Basadas en estándares ASTM
-- **Corpus especializados:** Proporcionados por área temática
-- **Evaluación con Marco MQM:** Sistema profesional de clasificación de errores
-- **Desarrollo progresivo:** Cada unidad construye sobre la anterior
-
 ---
 
 ## 📥 Descargar Políticas del Curso
