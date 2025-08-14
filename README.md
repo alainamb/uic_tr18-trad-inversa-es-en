@@ -64,9 +64,9 @@ Este proyecto refleja la creencia de que las barreras educativas deben ser minim
 
 ### Para Estudiantes
 - Lee el contenido directamente en el sitio de GitHub Pages
-- Copia archivos Markdown individuales para usar con sistemas de tutoría de IAG
-- Descarga todo el repositorio para acceso sin conexión
-- Contribuye mejoras a través de pull requests
+- Practica transcreación copiando textos comerciales para análisis con sistemas de tutoría de IAG
+- Descarga materiales publicitarios para análisis de voz de marca sin conexión
+- Contribuye mejoras a través de pull requests (¡práctica profesional real!)
 
 ### Para Educadores
 - Haz fork de este repositorio para crear tu propio curso
@@ -84,6 +84,7 @@ Este sitio está construido usando:
 - **GitHub Pages**: Hosting gratuito con despliegue automático
 - **Markdown**: Todo el contenido escrito en sintaxis Markdown estándar
 - **Jekyll** (opcional): Para generación de sitio mejorada si es necesario
+
 
 ## Contribuyendo
 
