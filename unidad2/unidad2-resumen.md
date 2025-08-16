@@ -80,4 +80,4 @@ Copia el resumen descargado de la unidad y prueba estos prompts:
 
 ---
 
-**¿Listas y listos para explorar la traducción técnica?** Inicia con la [Semana 4: Traducción Técnica e IAG](semana4/semana4-resumen.md) para dominar la traducción especializada en la era de la inteligencia artificial.
+**¿Listas y listos para comenzar?** Inicia con la [Semana 4: Traducción Técnica e IAG](semana4/semana4-resumen.md) para dominar la traducción especializada en la era de la inteligencia artificial.
