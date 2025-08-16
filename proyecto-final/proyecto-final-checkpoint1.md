@@ -48,7 +48,16 @@ Asegúrate de que existan **fuentes de referencia** suficientes para desarrollar
 - **Ejemplo**: `González_La inteligencia artificial en la medicina_ES-MX.docx`
 
 ### 2. Justificación de Selección
+
+**Información administrativa**
+- **Nombres** de las personas que integran el equipo
+- **Proceso** que siguieron para seleccionar el text
+- **Contribuciones de tiempo** de cada persona
+
+**Justificación**
 - **Extensión**: 3-5 frases
+
+**Entregable**
 - **Formato**: Archivo MS Word
 - **Nomenclatura**: `[PrimerApellidos]_Proyecto-Final-Justificación.docx`
 - **Ejemplo**: 
