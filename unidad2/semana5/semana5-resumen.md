@@ -58,4 +58,4 @@ Copia el contenido descargado de la semana y prueba estos prompts:
 
 ---
 
-**¿Listas y listos para profundizar?** Explora las actividades específicas y recursos para esta semana crucial de evaluación parcial.
+**¿Listas y listos para profundizar?** Explora las actividades específicas y recursos para esta semana.
