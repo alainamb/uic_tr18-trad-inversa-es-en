@@ -45,19 +45,6 @@ Este conocimiento te posiciona para participar en proyectos de traducción cient
 
 - **Este proceso de evaluación también ayuda a mejorar las habilidades de traducción** al desarrollar una mayor conciencia de los tipos de errores más comunes y sus soluciones.
 
-## Preguntas de Reflexión
-
-Considera estas preguntas mientras avanzas en el curso:
-
-1. **Especialización Científica:** ¿Cómo ha evolucionado tu capacidad para manejar terminología compleja y conceptos científicos?
-2. **Evaluación Sistemática:** ¿Qué aspectos del marco MQM consideras más útiles para tu desarrollo profesional?
-3. **Herramientas Profesionales:** ¿Cómo se compara Label Studio con otras herramientas que has utilizado en el curso?
-4. **Consenso y Calidad:** ¿Qué estrategias desarrollaste para llegar a acuerdos con otros evaluadores?
-
-## Mirando Hacia Adelante
-
-Tus competencias especializadas en traducción científica y evaluación de calidad te preparan para la Unidad 4, donde exploraremos textos especializados como tratados comerciales internacionales. Las habilidades de evaluación sistemática y trabajo colaborativo que has desarrollado serán esenciales al trabajar con documentos legales complejos y desarrollar consenso sobre interpretaciones jurídicas.
-
 ## Lista de Autoevaluación
 
 Califica tu confianza (escala 1-5) en estas competencias de la Unidad 3:
@@ -82,8 +69,18 @@ Califica tu confianza (escala 1-5) en estas competencias de la Unidad 3:
 - [ ] Adaptar presentación tipográfica según audiencias específicas
 - [ ] Resolver diferencias estilísticas entre sistemas lingüísticos
 
-### Áreas para Desarrollo Continuo
-*Anota las áreas donde obtuviste 3 puntos o menos para práctica enfocada en las próximas unidades.*
+## Preguntas de Reflexión
+
+Considera estas preguntas mientras avanzas en el curso:
+
+1. **Especialización Científica:** ¿Cómo ha evolucionado tu capacidad para manejar terminología compleja y conceptos científicos?
+2. **Evaluación Sistemática:** ¿Qué aspectos del marco MQM consideras más útiles para tu desarrollo profesional?
+3. **Herramientas Profesionales:** ¿Cómo se compara Label Studio con otras herramientas que has utilizado en el curso?
+4. **Consenso y Calidad:** ¿Qué estrategias desarrollaste para llegar a acuerdos con otros evaluadores?
+
+## Mirando Hacia Adelante
+
+Tus competencias especializadas en traducción científica y evaluación de calidad te preparan para la Unidad 4, donde exploraremos textos especializados como tratados comerciales internacionales. Las habilidades de evaluación sistemática y trabajo colaborativo que has desarrollado serán esenciales al trabajar con documentos legales complejos y desarrollar consenso sobre interpretaciones jurídicas.
 
 ---
 
