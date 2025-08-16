@@ -72,8 +72,8 @@ Utiliza el formato de citación apropiado para el tipo de fuente (artículo acad
 
 ### 1. Texto Fuente
 - **Formato**: Archivo MS Word
-- **Nomenclatura**: `[ApellidosDelAutor]_[Título del documento]_ES-MX.docx`
-- **Ejemplo**: `González_La inteligencia artificial en la medicina_ES-MX.docx`
+- **Nomenclatura**: `[ApellidosDelAutor]_[TítuloAbreviadoDelDocumento]_ES-MX.docx`
+- **Ejemplo**: `Aguilar_LaIAenMedicina_ES-MX.docx`
 
 ### 2. Justificación de Selección
 
