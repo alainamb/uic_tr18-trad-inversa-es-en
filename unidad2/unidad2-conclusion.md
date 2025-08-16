@@ -40,15 +40,6 @@ Estas competencias te posicionan a la vanguardia de la profesión, preparándote
 - **Autoevaluación reflexiva** de procesos y resultados de traducción
 - **Mejora continua** basada en retroalimentación estructurada
 
-## Integración y Aplicación
-
-Las competencias desarrolladas en la Unidad 2 amplían significativamente tu perfil profesional:
-
-- **Unidad 3 (Textos Científicos):** Tu experiencia con terminología técnica te ayudará con textos de cambio climático
-- **Unidad 4 (Textos Especializados):** Las habilidades de Lilt serán valiosas para tratados comerciales complejos
-- **Unidad 5 (Textos Literarios):** El contraste gramatical avanzado será esencial para traducción creativa
-- **Proyecto Final:** Todas estas competencias se integrarán en tu portafolio profesional
-
 ## Conclusiones Principales
 
 - **La calidad de traducción mejora significativamente** al incorporar corpus y glosarios, tanto en procesos humanos como automáticos, demostrando la importancia de la preparación metodológica.
