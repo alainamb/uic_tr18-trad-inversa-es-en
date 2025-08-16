@@ -79,4 +79,4 @@ Copia el resumen descargado de la unidad y prueba estos prompts:
 
 ---
 
-**¿Listo para comenzar?** Inicia con la [Semana 1: Fundamentos de la Traducción Inversa](semana1/semana1-resumen.md) para dominar los conceptos fundamentales de la traducción profesional español-inglés.
+**¿Listas y listos para comenzar?** Inicia con la [Semana 1: Fundamentos de la Traducción Inversa](semana1/semana1-resumen.md) para dominar los conceptos fundamentales de la traducción profesional español-inglés.
