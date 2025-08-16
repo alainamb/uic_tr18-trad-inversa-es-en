@@ -41,7 +41,7 @@ Tu traducción será evaluada según la **tipología básica de MQM** en las ár
 ### 2. Justificación (1 punto)
 
 #### Estructura Requerida
-Escribe una justificación de **5 párrafos** que aborde:
+Escribe una justificación de **5 párrafos más la información administrativa** que aborde:
 
 **Párrafo 1: Introducción**
 - Describe las características de tu texto fuente
@@ -63,6 +63,12 @@ Escribe una justificación de **5 párrafos** que aborde:
 - Reflexiona sobre lo que has aprendido trabajando en este proyecto
 - Evalúa tu crecimiento como traductor profesional
 
+**Información administrativa** 
+Además hay que añadir una sección a la justificación con la siguiente información:
+  - **Nombres** de las personas que desarrollaron las especificaciones
+  - **Contribuciones de tiempo** de cada persona a lo largo del proyecto
+  - **Análisis de sus contribuciones**: ¿Están satisfechas con tus contribuiciones a lo largo del proyecto?
+
 ### 3. Entrega Final (1 punto)
 
 #### Compilación de Componentes
@@ -72,17 +78,15 @@ Reúne **todos los componentes** de tu proyecto, incorporando la retroalimentaci
 
 ### Traducción
 - **Formato**: Archivo MS Word
-- **Nomenclatura**: `[Apellidos]_[Título del documento]_EN`
-- **Ejemplo**: `González_Artificial intelligence in medicine_EN`
+- **Nomenclatura**: `[ApellidosDelAutor]_[TítuloAbreviadoDelDocumento]_EN-US.docx`
+- **Ejemplo**: `Aguilar_LaIAenMedicina_EN-US.docx`
 
 ### Justificación
-- **Formato**: MS Word o PDF
-- **Nomenclatura**: `[Apellidos]_Justificación de toma de decisiones en el texto meta`
-- **Ejemplo**: `González_Justificación de toma de decisiones en el texto meta`
-- **Información administrativa**: Añade una sección a la justificación con la siguiente información:
-  - **Nombres** de las personas que desarrollaron las especificaciones
-  - **Contribuciones de tiempo** de cada persona a lo largo del proyecto
-  - **Análisis de sus contribuciones**: ¿Están satisfechas con tus contribuiciones a lo largo del proyecto?
+- **Formato**: Archivo MS Word
+- **Nomenclatura**: `[PrimerApellidos]_Traducción-Justificación.docx`
+- **Ejemplo**:
+  - Projecto individual: `González_Traducción-Justificación.docx`
+  - Projecto grupal: `González-Reyes_Traducción-Justificación.docx`
 
 ### Contenidos Adicionales de la Carpeta Final
 Tu carpeta comprimida debe incluir:
@@ -103,7 +107,7 @@ Asegúrate de incorporar los comentarios recibidos sobre:
 ### Entrega Final Completa
 - **Formato**: Carpeta comprimida (.zip)
 - **Nomenclatura**: `[PrimerApellidos]_ProyectoFinal.zip`
-- **Ejemplos**:
+- **Ejemplo**:
   - Projecto individual: `González_ProyectoFinal.zip`
   - Projecto grupal: `González-Reyes_ProyectoFinal.zip`
 
