@@ -50,19 +50,6 @@ Estas competencias te posicionan a la vanguardia de la profesión, preparándote
 
 - **La aplicación de estrategias adecuadas para manejar las diferencias gramaticales** entre español e inglés resulta en traducciones más naturales y efectivas, especialmente crucial en textos técnicos donde la precisión y fluidez deben coexistir.
 
-## Preguntas de Reflexión
-
-Considera estas preguntas mientras integras tu aprendizaje:
-
-1. **Evolución Tecnológica:** ¿Cómo ha cambiado tu perspectiva sobre el papel de la IAG en la traducción profesional?
-2. **Competencia Técnica:** ¿Qué aspectos de la traducción técnica seguirás desarrollando?
-3. **Flujo de Trabajo:** ¿Cómo integrarás las herramientas híbridas en tu práctica profesional futura?
-4. **Desarrollo Profesional:** ¿Qué competencias complementarias necesitas desarrollar para destacar en traducción técnica?
-
-## Mirando Hacia Adelante
-
-Tu dominio de la traducción técnica y herramientas híbridas te prepara excelentemente para la Unidad 3, donde exploraremos textos científicos sobre cambio climático. Las competencias terminológicas y tecnológicas que has desarrollado serán fundamentales al trabajar con textos que requieren tanto precisión científica como sensibilidad cultural.
-
 ## Lista de Autoevaluación
 
 Califica tu confianza (escala 1-5) en estas competencias de la Unidad 2:
@@ -93,8 +80,18 @@ Califica tu confianza (escala 1-5) en estas competencias de la Unidad 2:
 - [ ] Reflexionar críticamente sobre mi proceso y resultados de traducción
 - [ ] Integrar retroalimentación para mejora continua de mis competencias
 
-### Áreas para Desarrollo Continuo
-*Anota las áreas donde obtuviste 3 puntos o menos para práctica enfocada en las próximas unidades.*
+## Preguntas de Reflexión
+
+Considera estas preguntas mientras integras tu aprendizaje:
+
+1. **Evolución Tecnológica:** ¿Cómo ha cambiado tu perspectiva sobre el papel de la IAG en la traducción profesional?
+2. **Competencia Técnica:** ¿Qué aspectos de la traducción técnica seguirás desarrollando?
+3. **Flujo de Trabajo:** ¿Cómo integrarás las herramientas híbridas en tu práctica profesional futura?
+4. **Desarrollo Profesional:** ¿Qué competencias complementarias necesitas desarrollar para destacar en traducción técnica?
+
+## Mirando Hacia Adelante
+
+Tu dominio de la traducción técnica y herramientas híbridas te prepara excelentemente para la Unidad 3, donde exploraremos textos científicos sobre cambio climático. Las competencias terminológicas y tecnológicas que has desarrollado serán fundamentales al trabajar con textos que requieren tanto precisión científica como sensibilidad cultural.
 
 ---
 
