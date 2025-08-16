@@ -58,4 +58,4 @@ Copia el contenido descargado de la semana y prueba estos prompts:
 
 ---
 
-**¿Listas y listos para profundizar?** Explora las actividades específicas y recursos para esta semana de introducción a la traducción técnica especializada.
+**¿Listas y listos para profundizar?** Explora las actividades específicas y recursos para esta semana.
