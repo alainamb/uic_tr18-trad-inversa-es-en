@@ -109,7 +109,7 @@ Practica visitando [nuestro repositorio](https://github.com/alainamb/uic_tr18-tr
 
 ---
 
-### 🚀 ¿Listo para Comenzar?
+### 🚀 ¿Listas y listos para aprender más sobre el curso?
 Revisa la [Descripción General del Curso](overview/overview.md) incluyendo políticas y detalles del proyecto, o comienza directamente con la [Unidad 1: Traducción Inversa y Textos Generales](unit1/unit1-overview.md).
 
 ---
