@@ -13,6 +13,9 @@ El proyecto final te dará la oportunidad de traducir un documento de tu elecci�
 
 ## Metodología de Trabajo
 
+### Modo de trabajo
+Trabajarás individualmente o en un grupo pequeño de no más de tres personas para este proyecto.
+
 ### Proceso Gradual (Semanas 7-16)
 El proyecto se desarrolla a través de cinco checkpoints distribuidos a lo largo del semestre. Durante las semanas 7-13, recibirás **retroalimentación formativa** sobre los componentes preparatorios, permitiéndote mejorar tu trabajo basándote en los comentarios antes de la evaluación final.
 
