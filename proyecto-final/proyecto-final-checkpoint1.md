@@ -89,8 +89,8 @@ Utiliza el formato de citación apropiado para el tipo de fuente (artículo acad
 - **Formato**: Archivo MS Word
 - **Nomenclatura**: `[PrimerApellidos]_Proyecto-Final-Justificación.docx`
 - **Ejemplo**: 
-- - Projecto individual: `González_Proyecto-Final-Justificación.docx`
-- - Projecto grupal: `González-Reyes_Proyecto-Final-Justificación.docx`
+  - Projecto individual: `González_Proyecto-Final-Justificación.docx`
+  - Projecto grupal: `González-Reyes_Proyecto-Final-Justificación.docx`
 
 ## Evaluación
 
