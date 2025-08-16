@@ -35,15 +35,6 @@ Este conocimiento servirá como base sólida para las siguientes unidades del cu
 - **Documentos personales** para procesos de inmigración
 - **Evaluación profesional** según marcos de errores estandarizados
 
-## Integración y Aplicación
-
-Las competencias que has desarrollado en la Unidad 1 forman la base para todas las unidades posteriores:
-
-- **Unidad 2 (Textos Técnicos):** Tus habilidades de especificación técnica te ayudarán con textos de inteligencia artificial
-- **Unidad 3 (Textos Científicos):** El contraste lingüístico será esencial para textos sobre cambio climático
-- **Unidad 4 (Textos Especializados):** Las competencias profesionales se aplicarán a tratados comerciales
-- **Unidad 5 (Textos Literarios):** Todas estas habilidades se combinan para la traducción creativa
-
 ## Conclusiones Principales
 
 - **La traducción inversa es una especialidad con demanda creciente**, particularmente en el ámbito migratorio México-Estados Unidos.
