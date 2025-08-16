@@ -24,7 +24,7 @@ Esta semana nos enfocamos en la traducción de textos literarios mexicanos para 
 ### Actividades bajo Conducción Docente (Martes 9-11am)
 - La traducción de textos literarios de México para los Estados Unidos: Presentación + diálogo
 - Reproducción de la entrevista con George Henson, traductor de Sergio Pitol, Elena Poniatowska y Alberto Chimal
-- Presentación de Texto 9 - Literatura mexicana: Requisitos y proceso de selección
+- Presentación de Texto 10 - Literatura mexicana: Requisitos y proceso de selección
 
 ## Actividades Independientes
 
