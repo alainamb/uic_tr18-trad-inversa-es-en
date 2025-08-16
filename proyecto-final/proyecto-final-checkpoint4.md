@@ -52,15 +52,17 @@ Incluye términos que:
 - Escribe los términos en su forma canónica
 - Utiliza la ortografía y capitalización estándar
 - Incluye variantes importantes si es necesario
+- Recuerda: No necesariamente tendrás un equivalente para cada término que añades a tu base de datos
 
 ### Definiciones
-- Proporciona definiciones **precisas y completas**
-- Las definiciones en español e inglés deben **coincidir conceptualmente**
 - Utiliza fuentes profesionales y confiables
+- Proporciona definiciones **precisas y completas**
+- Para pares de términos en español e inglés, las definiciones deben **coincidir conceptualmente**
 
 ### Fuentes
 - **Cita apropiadamente** todas las definiciones
 - Incluye autor, título, y año cuando sea posible
+- Comparte un URL a cada fuente
 - Utiliza fuentes profesionales y académicas reconocidas
 
 ### Notas
@@ -81,56 +83,35 @@ Las definiciones de los términos españoles e ingleses deben **coincidir** para
 - Consulta múltiples fuentes para confirmar equivalencias
 - Documenta cualquier diferencia conceptual en las notas
 
+**Puedes tener entradas que no tengan términos correspondientes cuando haya un concepto importante en un idioma que no tenga un equivalente exacto en el otro idioma.**
+
 ## Entregables
 
-### Base de Datos Terminológica
+**Base de Datos Terminológica**
 - **Formato**: Archivo MS Excel (.xlsx)
-- **Nomenclatura**: `[Apellidos]_Glosario`
-- **Ejemplo**: `González_Glosario`
+- **Nomenclatura**: `[PrimerApellidos]_Glosario.xlsx`
+- **Ejemplo**: 
+  - Projecto individual: `González_Glosario.xlsx`
+  - Projecto grupal: `González-Reyes_Glosario.xlsx`
 
-### Estructura Requerida
+**Estructura Requerida**
 - **8 columnas** según el modelo proporcionado
 - **Mínimo 5 entradas** (filas de términos)
-- **Máximo 10 entradas** para mantener enfoque y calidad
+- **Máximo 10 entradas** para cada idioma para mantener enfoque y calidad
+
+**Información administrativa**
+Añade una pestaña al base de datos con la siguiente información:
+- **Nombres** de las personas que desarrollaron los términos
+- **Discusión sobre correspondencia** para los términos con más matices
+- **Contribuciones de tiempo** de cada persona
 
 ## Evaluación
 
 ### Escala de Calificación
-- **10 puntos**: Completo y alta correspondencia
-- **0 puntos**: Incompleto y sin correspondencia
+- **1 punto**: Completo y alta correspondencia en pares bilingües
+- **0 puntos**: Incompleto y sin correspondencia en pares bilingües
 
-### Criterios de Evaluación
-
-#### Completo y Alta Correspondencia (10 puntos)
-- Todos los campos están completados apropiadamente
-- Las correspondencias terminológicas son precisas
-- Las definiciones son profesionales y bien documentadas
-- Las fuentes son apropiadas y están correctamente citadas
-
-#### Incompleto y Sin Correspondencia (0 puntos)
-- Campos importantes están vacíos o mal completados
-- Las correspondencias terminológicas son inexactas o inapropiadas
-- Las definiciones son superficiales o no profesionales
-- Las fuentes son inadecuadas o están mal citadas
-
-## Consejos para el Éxito
-
-### Fuentes Recomendadas
-- Diccionarios especializados del área
-- Glosarios de organizaciones profesionales
-- Bases de datos terminológicas reconocidas
-- Publicaciones académicas y técnicas
-
-### Proceso de Trabajo
-1. **Identifica** términos clave en tu texto y corpus
-2. **Investiga** definiciones en fuentes profesionales
-3. **Verifica** correspondencias conceptuales
-4. **Documenta** todo apropiadamente en la base de datos
-
-### Control de Calidad
-- Revisa la coherencia de tus correspondencias
-- Verifica la exactitud de todas las citas
-- Asegúrate de que las definiciones sean comprensibles y precisas
+*Recuerda que al entregar este checkpoint, el objetivo es que recibas retroalimentación que puedas utilizar para mejorar tu trabajo y/o continuar al siguiente paso con confianza. El trabajo que realices en este componente recibirá puntos cuando hagas tu entrega final.*
 
 ## Fecha de Entrega
 
