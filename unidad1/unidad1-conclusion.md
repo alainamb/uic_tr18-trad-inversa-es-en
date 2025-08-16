@@ -43,19 +43,6 @@ Este conocimiento servirá como base sólida para las siguientes unidades del cu
 
 - **La traducción profesional requiere estrategias específicas** que van más allá de la traducción literal, considerando las diferencias estructurales entre español e inglés.
 
-## Preguntas de Reflexión
-
-Considera estas preguntas mientras avanzas en el curso:
-
-1. **Competencia Profesional:** ¿Cómo ha evolucionado tu comprensión de la traducción inversa como especialidad profesional?
-2. **Aplicación Técnica:** ¿Qué aspectos de las especificaciones técnicas seguirás desarrollando?
-3. **Contraste Lingüístico:** ¿Cuáles son las diferencias español-inglés que más impactan tu trabajo de traducción?
-4. **Contexto Cultural:** ¿Qué aprendiste sobre la importancia del contexto México-Estados Unidos en traducción?
-
-## Mirando Hacia Adelante
-
-Tu sólida base en traducción inversa y textos generales te prepara para la Unidad 2, donde exploraremos textos técnicos sobre inteligencia artificial generativa. Las competencias de especificación técnica y contraste lingüístico que has desarrollado serán esenciales al trabajar con terminología especializada y herramientas como Lilt.
-
 ## Lista de Autoevaluación
 
 Califica tu confianza (escala 1-5) en estas competencias de la Unidad 1:
@@ -80,8 +67,18 @@ Califica tu confianza (escala 1-5) en estas competencias de la Unidad 1:
 - [ ] Manejar documentos personales para procesos de inmigración
 - [ ] Producir traducciones que cumplan estándares profesionales
 
-### Áreas para Desarrollo Continuo
-*Anota las áreas donde obtuviste 3 puntos o menos para práctica enfocada en las próximas unidades.*
+## Preguntas de Reflexión
+
+Considera estas preguntas mientras avanzas en el curso:
+
+1. **Competencia Profesional:** ¿Cómo ha evolucionado tu comprensión de la traducción inversa como especialidad profesional?
+2. **Aplicación Técnica:** ¿Qué aspectos de las especificaciones técnicas seguirás desarrollando?
+3. **Contraste Lingüístico:** ¿Cuáles son las diferencias español-inglés que más impactan tu trabajo de traducción?
+4. **Contexto Cultural:** ¿Qué aprendiste sobre la importancia del contexto México-Estados Unidos en traducción?
+
+## Mirando Hacia Adelante
+
+Tu sólida base en traducción inversa y textos generales te prepara para la Unidad 2, donde exploraremos textos técnicos sobre inteligencia artificial generativa. Las competencias de especificación técnica y contraste lingüístico que has desarrollado serán esenciales al trabajar con terminología especializada y herramientas como Lilt.
 
 ---
 
