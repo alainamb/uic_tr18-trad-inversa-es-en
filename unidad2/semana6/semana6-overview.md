@@ -61,4 +61,4 @@ Copia el contenido descargado de la semana y prueba estos prompts:
 
 ---
 
-**¿Listas y listos para profundizar?** Sumérgete en las actividades autodirigidas y descubre cómo la tecnología puede amplificar tus capacidades como traductor profesional.
+**¿Listas y listos para profundizar?** Explora las actividades específicas y recursos para esta semana.
