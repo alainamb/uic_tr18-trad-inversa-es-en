@@ -56,23 +56,29 @@ Busca los **mejores documentos posibles** que puedan servir de referencia para:
 
 ## Entregables
 
-### Carpeta de Corpus
+**Carpeta de Corpus**
 - **Formato**: Carpeta comprimida (.zip)
 - **Nomenclatura**: `[PrimerApellidos]_Corpus.zip`
 - **Ejemplo**: 
   - Projecto individual: `González_Corpus.zip`
   - Projecto grupal: `González-Corpus.zip`
 
-### Documentos Individuales
+**Documentos del Corpus Individuales**
 - **Formato**: MS Word o PDF
 - **Nomenclatura**: `[ApellidosDelAutor]_[Título del documento]`
 - **Ejemplo**: `Smith_AI medical applications`
 
-### Organización de Archivos
+**Organización de Archivos**
 - Incluye 4-6 documentos en total
 - Nombra cada archivo claramente
 - Asegúrate de que todos los archivos sean legibles
 - Pon los archivos en carpetas para cada idioma de tu proyecto
+
+**Información administrativa**
+Añade un documento a tu zip con la siguiente información:
+- **Nombres** de las personas que desarrollaron el corpus
+- **Desafíos** que enfrentaron durante el desarrollo
+- **Contribuciones de tiempo** de cada persona
 
 ## Evaluación
 
