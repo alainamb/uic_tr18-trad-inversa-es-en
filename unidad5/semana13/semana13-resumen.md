@@ -42,7 +42,7 @@ Esta semana nos enfocamos en la traducción de textos literarios mexicanos para 
 ## Evaluación
 
 - **Asistencia y participación** (2 puntos)
-- **Selección de Texto 9 - Literatura mexicana** (0 puntos)
+- **Selección de Texto 10 - Literatura mexicana** (0 puntos)
 
 ---
 
