@@ -40,30 +40,6 @@ Elige un tema que te **interese genuinamente**. El entusiasmo por el contenido m
 ### Accesibilidad de Recursos
 Asegúrate de que existan **fuentes de referencia** suficientes para desarrollar tu corpus y glosario en el área temática seleccionada.
 
-## Entregables
-
-### 1. Texto Fuente
-- **Formato**: Archivo MS Word
-- **Nomenclatura**: `[ApellidosDelAutor]_[Título del documento]_ES-MX.docx`
-- **Ejemplo**: `González_La inteligencia artificial en la medicina_ES-MX.docx`
-
-### 2. Justificación de Selección
-
-**Información administrativa**
-- **Nombres** de las personas que integran el equipo
-- **Proceso** que siguieron para seleccionar el text
-- **Contribuciones de tiempo** de cada persona
-
-**Justificación**
-- **Extensión**: 3-5 frases
-
-**Entregable**
-- **Formato**: Archivo MS Word
-- **Nomenclatura**: `[PrimerApellidos]_Proyecto-Final-Justificación.docx`
-- **Ejemplo**: 
-- - Projecto individual: `González_Proyecto-Final-Justificación.docx`
-- - Projecto grupal: `González-Reyes_Proyecto-Final-Justificación.docx`
-
 ## Contenido de la Justificación
 
 Tu justificación debe demostrar:
@@ -91,6 +67,30 @@ Tu justificación debe demostrar:
 
 ### Formato de Citación
 Utiliza el formato de citación apropiado para el tipo de fuente (artículo académico, sitio web, documento oficial, etc.).
+
+## Entregables
+
+### 1. Texto Fuente
+- **Formato**: Archivo MS Word
+- **Nomenclatura**: `[ApellidosDelAutor]_[Título del documento]_ES-MX.docx`
+- **Ejemplo**: `González_La inteligencia artificial en la medicina_ES-MX.docx`
+
+### 2. Justificación de Selección
+
+**Información administrativa**
+- **Nombres** de las personas que integran el equipo
+- **Proceso** que siguieron para seleccionar el text
+- **Contribuciones de tiempo** de cada persona
+
+**Justificación**
+- **Extensión**: 3-5 frases
+
+**Entregable**
+- **Formato**: Archivo MS Word
+- **Nomenclatura**: `[PrimerApellidos]_Proyecto-Final-Justificación.docx`
+- **Ejemplo**: 
+- - Projecto individual: `González_Proyecto-Final-Justificación.docx`
+- - Projecto grupal: `González-Reyes_Proyecto-Final-Justificación.docx`
 
 ## Evaluación
 
