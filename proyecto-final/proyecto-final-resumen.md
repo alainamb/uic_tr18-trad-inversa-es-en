@@ -19,6 +19,9 @@ Este proyecto refleja el tipo de trabajo que realizarás como traductor profesio
 
 ## Descripción General
 
+### Modo de trabajo
+Trabajarás individualmente o en un grupo pequeño de no más de tres personas para este proyecto.
+
 ### Texto Fuente
 Seleccionarás un texto en español de aproximadamente 900-1200 palabras para traducir al inglés. El texto debe representar el tipo de proyecto profesional que te interese realizar después de obtener tu título, y no debe haber sido traducido anteriormente.
 
@@ -71,7 +74,7 @@ El proyecto final representa una parte significativa de la calificación del cur
   - Justificación: 10 puntos  
   - Entrega final: 10 puntos
 
-### [Ver Criterios de Evaluación Detallados](proyecto-final-evaluacion.md)
+### [Ver Criterios de Evaluación Detallados](proyecto-final-evaluaciones.md)
 
 ## Comenzando
 
