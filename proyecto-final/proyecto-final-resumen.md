@@ -94,4 +94,4 @@ Copia el resumen descargado del proyecto y prueba estos prompts:
 
 ---
 
-**¿Listas y listos para tu proyecto final?** Comienza con las [Instrucciones Generales del Proyecto](proyecto-final-instructions.md) para entender el proceso completo.
+**¿Listas y listos para tu proyecto final?** Comienza con las [Instrucciones Generales del Proyecto](proyecto-final-instrucciones.md) para entender el proceso completo.
