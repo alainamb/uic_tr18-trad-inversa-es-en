@@ -53,14 +53,6 @@ Elementos gramaticales español-inglés en textos técnicos, preparación y real
 ### [Semana 6: Introducción a Lilt y Traducción Híbrida](semana6/semana6-resumen.md)
 Capacitación en Lilt, traducción híbrida del Texto 4, y ensayo comparativo entre traducción humana y híbrida.
 
-## La IAG en el Contexto Profesional
-
-Esta unidad refleja la realidad actual del mercado de traducción, donde las herramientas de IAG no reemplazan a los traductores profesionales, sino que amplían sus capacidades. Aprenderás a:
-
-- **Aprovechar la tecnología** para mejorar eficiencia sin comprometer calidad
-- **Mantener control editorial** sobre el proceso de traducción
-- **Desarrollar criterio profesional** para seleccionar las mejores herramientas según el proyecto
-
 ## Comenzando
 
 Recuerda participar en las clases presenciales, realizar los ejercicios y entregar las actividades en la plataforma. Esta unidad incluye tu primera evaluación parcial, por lo que el compromiso activo desde el principio será fundamental para tu éxito.
@@ -88,4 +80,4 @@ Copia el resumen descargado de la unidad y prueba estos prompts:
 
 ---
 
-**¿Listo para explorar la traducción técnica?** Inicia con la [Semana 4: Traducción Técnica e IAG](semana4/semana4-resumen.md) para dominar la traducción especializada en la era de la inteligencia artificial.
+**¿Listas y listos para explorar la traducción técnica?** Inicia con la [Semana 4: Traducción Técnica e IAG](semana4/semana4-resumen.md) para dominar la traducción especializada en la era de la inteligencia artificial.
