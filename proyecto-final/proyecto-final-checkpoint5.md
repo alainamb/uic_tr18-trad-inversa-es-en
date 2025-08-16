@@ -21,13 +21,13 @@ Al completar este checkpoint, habrás:
 
 ## Componentes de la Evaluación Final
 
-### 1. Traducción (50 puntos)
+### 1. Traducción (5 puntos)
 
 #### Requisitos de Calidad
 Deberás realizar la traducción de forma que el texto meta que produzcas sea **adecuado y completo**, teniendo en cuenta:
 - Las especificaciones desarrolladas en el Checkpoint 2
-- La terminología de tu glosario del Checkpoint 4
 - El contexto del género establecido por tu corpus del Checkpoint 3
+- La terminología de tu glosario del Checkpoint 4
 
 #### Criterios de Evaluación
 Tu traducción será evaluada según la **tipología básica de MQM** en las áreas de:
@@ -38,7 +38,7 @@ Tu traducción será evaluada según la **tipología básica de MQM** en las ár
 - **Convenciones locales**: Aspectos culturales y regionales apropiados
 - **Adecuación del público**: Cumplimiento con las especificaciones de audiencia
 
-### 2. Justificación (10 puntos)
+### 2. Justificación (1 punto)
 
 #### Estructura Requerida
 Escribe una justificación de **5 párrafos** que aborde:
@@ -63,7 +63,7 @@ Escribe una justificación de **5 párrafos** que aborde:
 - Reflexiona sobre lo que has aprendido trabajando en este proyecto
 - Evalúa tu crecimiento como traductor profesional
 
-### 3. Entrega Final (10 puntos)
+### 3. Entrega Final (1 punto)
 
 #### Compilación de Componentes
 Reúne **todos los componentes** de tu proyecto, incorporando la retroalimentación recibida en los checkpoints formativos.
@@ -79,13 +79,12 @@ Reúne **todos los componentes** de tu proyecto, incorporando la retroalimentaci
 - **Formato**: MS Word o PDF
 - **Nomenclatura**: `[Apellidos]_Justificación de toma de decisiones en el texto meta`
 - **Ejemplo**: `González_Justificación de toma de decisiones en el texto meta`
+- **Información administrativa**: Añade una sección a la justificación con la siguiente información:
+  - **Nombres** de las personas que desarrollaron las especificaciones
+  - **Contribuciones de tiempo** de cada persona a lo largo del proyecto
+  - **Análisis de sus contribuciones**: ¿Están satisfechas con tus contribuiciones a lo largo del proyecto?
 
-### Entrega Final Completa
-- **Formato**: Carpeta comprimida (.zip)
-- **Nomenclatura**: `[Apellidos]_[Sección]_Proyecto final`
-- **Ejemplo**: `González_81TR_Proyecto final`
-
-#### Contenido de la Carpeta Final
+### Contenidos Adicionales de la Carpeta Final
 Tu carpeta comprimida debe incluir:
 1. Justificación de selección del texto fuente
 2. Texto fuente original
@@ -95,16 +94,29 @@ Tu carpeta comprimida debe incluir:
 6. Traducción final
 7. Justificación de toma de decisiones en el texto meta
 
+#### Revisión de Componentes
+Asegúrate de incorporar los comentarios recibidos sobre:
+- Especificaciones (Checkpoint 2)
+- Corpus (Checkpoint 3)
+- Glosario (Checkpoint 4)
+
+### Entrega Final Completa
+- **Formato**: Carpeta comprimida (.zip)
+- **Nomenclatura**: `[PrimerApellidos]_ProyectoFinal.zip`
+- **Ejemplos**:
+  - Projecto individual: `González_ProyectoFinal.zip`
+  - Projecto grupal: `González-Reyes_ProyectoFinal.zip`
+
 ## Criterios de Evaluación
 
 ### Traducción
 
 #### Escala de Calificación
-- **50 puntos**: Excelente
-- **40 puntos**: Muy bien
-- **30 puntos**: Bien
-- **20 puntos**: Regular
-- **10 puntos**: Suficiente
+- **5 puntos**: Excelente
+- **4 puntos**: Muy bien
+- **3 puntos**: Bien
+- **2 puntos**: Regular
+- **1 punto**: Suficiente
 - **0 puntos**: Reprobatorio
 
 #### Criterios de Calidad
@@ -113,26 +125,12 @@ La evaluación considerará la **calidad del texto en su conjunto** en las área
 - **Legibilidad**: Naturalidad y fluidez en el idioma meta
 
 ### Justificación
-- **10 puntos**: Completo y con conciencia crítica
+- **1 punto**: Completo y con conciencia crítica
 - **0 puntos**: Incompleto y sin conciencia crítica
 
 ### Entrega Final
-- **10 puntos**: Entrega completa y refinada
+- **1 punto**: Entrega completa y refinada
 - **0 puntos**: Entrega incompleta y descuidada
-
-## Incorporación de Retroalimentación
-
-### Revisión de Componentes
-Asegúrate de incorporar los comentarios recibidos sobre:
-- Especificaciones (Checkpoint 2)
-- Corpus (Checkpoint 3)
-- Glosario (Checkpoint 4)
-
-### Mejora Continua
-Utiliza la retroalimentación formativa para:
-- Refinar tus especificaciones según las necesidades identificadas
-- Mejorar la calidad de tu corpus y glosario
-- Producir una traducción más profesional
 
 ## Fecha de Entrega
 
@@ -153,4 +151,4 @@ Copia el contenido descargado del checkpoint y prueba estos prompts:
 
 ---
 
-**¿Listas y listos para ver los criterios completos?** Revisa la [Evaluación del Proyecto Final](proyecto-final-evaluacion.md) para entender todos los criterios de calificación.
+**¿Listas y listos para ver un resumen de criterios completos?** Revisa la [Evaluación del Proyecto Final](proyecto-final-evaluaciones.md) para entender todos los criterios de calificación.
