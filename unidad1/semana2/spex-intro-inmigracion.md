@@ -104,10 +104,10 @@ Al definir las especificaciones de un texto, tenemos que identificar la terminol
 | extranjero residente temporal | foreign temporary resident |  |
 | visa de residente temporal | temporary resident visa |  |
 | tarjeta de residente temporal | temporary resident card |  |
-| residente temporal estudiante | temporary student resident | MX.gov uses student temporary resident, temporary student resident is more idiomatic |
-| extranjero residente temporal estudiante | foreign temporary student resident  |  |
-| visa de residente temporal estudiante | temporary student resident visa |  |
-| tarjeta de residente temporal estudiante | temporary student resident card |  |
+| residente temporal estudiante | student temporary resident | MX.gov uses student temporary resident, temporary student resident is more idiomatic |
+| extranjero residente temporal estudiante | foreign student temporary resident  |  |
+| visa de residente temporal estudiante | student temporary resident visa |  |
+| tarjeta de residente temporal estudiante | student temporary resident card |  |
 | trámite migratorio de estancia | immigratory stay procedure |  |
 | formato para solicitar trámite migratorio de estancia | application form for the immigratory stay procedure | **Form**: https://www.inm.gob.mx/tramites/publico/solicitud_internacion.html |
 | constancia de inscripción del empleador (CIE) | Employer Registration Certificate | **Definición (ES)**: "documento que debe obtener la persona moral (empresa) o física que desea contratar personal extranjero y se tramita ante las Oficinas de Atención a Trámites del Instituto Nacional de Migración (INM)" <br>**Fuentes**: https://mexico.iom.int/sites/g/files/tmzbdl1686/files/infografia-cie_01_2020121_0.pdf, https://www.littler.com/publication-press/publication/mexico-updating-employer-registration-certificate |
@@ -121,17 +121,9 @@ Al analizar la terminología del texto de inmigración, observamos varios patron
 
 ### Tipos de términos especializados
 
-**Oficinas gubernamentales**
-- Instituto Nacional de Migración → National Institute of Migration
-- Registro Federal de Contribuyentes → Federal Taxpayer Registry
-
-**Documentos oficiales**
-- Tarjeta de Residente Temporal → Temporary Resident Card
-- constancia de inscripción → registration certificate
-
-**Procedimientos legales**
-- trámite migratorio → immigration procedure
-- bajo protesta de decir verdad → under oath to tell the truth
+- nombres de oficinas gubernamentales
+- títulos de documentos oficiales
+- conceptos relacionados con procedimientos legales
 
 ### Término madre: "residente temporal"
 
@@ -142,20 +134,24 @@ Este término aparece frecuentemente en el texto:
 
 **Principio de consistencia**: Una vez que establecemos la traducción "temporary resident", debemos mantenerla en todas las variaciones.
 
-### Orden de palabras en términos compuestos
+**Orden de palabras en términos compuestos**:
 
 Para términos como "residente temporal estudiante":
-- ❌ "student temporary resident" (literal)
-- ✅ "temporary resident student" (orden oficial establecido)
+
+- ✅ "student temporary resident" (literal pero orden oficial establecido)
+
+- ❌ "temporary resident student" (más idiomático)
 
 **Criterio**: Seguir las traducciones oficiales existentes, incluso si no son las "mejores" traducciones, para mantener consistencia con documentos gubernamentales.
+
+## Especificaciones relacionadas con los conceptos culturales y la terminología
+
+De nuestra investigación sobre la terminología, podemos definir otras especificaciones importantes.
 
 ### Consideraciones culturales
 - **Sistema legal**: Explicar conceptos específicos del derecho mexicano cuando sea necesario
 - **Procedimientos**: Mantener referencias exactas a documentos y procesos mexicanos
 - **Moneda y contactos**: Conservar pesos mexicanos y números telefónicos locales
-
-
 
 ## Especificaciones técnicas
 
