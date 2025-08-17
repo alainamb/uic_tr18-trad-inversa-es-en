@@ -98,17 +98,8 @@ De nuestra investigación sobre la audiencia, podemos definir muchas especificac
 Al definir las especificaciones de un texto, tenemos que identificar la terminología especializada que contiene el texto. 
 
 | **ES-MX Term** | **EN-INTL Term** | **Notas** |
-|----------------|------------------|-----------
-| Estados Unidos | 7,208 |
-| Canada | 1,457 |
-| Europa | 5,553 |
-| Asia | 9,611 |
-| Islas del Caribe | 4,316 |
-| Brazil | 1,376 |
-| Oceanía | 111 |
-| África | 388 |
-
-
+|----------------|------------------|-----------|
+| Instituto Nacional de Migración (INM) | National Migration Institute (INM) | Fuentes: U.S. Department of State, U.S. Department of Homeland Security |
 
 Al analizar la terminología del texto de inmigración, observamos varios patrones importantes:
 
