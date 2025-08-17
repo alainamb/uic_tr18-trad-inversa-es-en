@@ -22,8 +22,8 @@ Esta semana nos enfocamos en las especificaciones y guías de estilo para traduc
 ## Actividades en Clase
 
 ### Actividades bajo Conducción Docente (Martes 9-11am)
-- Presentación de los Parámetros de traducción estandarizados por Tranquality
 - Parámetros de traducción para textos de inmigración: Diálogo y aplicación práctica
+- Presentación de los Parámetros de traducción estandarizados por Tranquality
 - Repaso de las traducciones de Texto 1 - Inmigración: análisis de errores comunes
 - Contraste ES/EN: Los elementos morfosintácticos - Presentación + actividades prácticas
 
