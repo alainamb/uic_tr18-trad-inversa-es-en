@@ -8,8 +8,6 @@ nav_order: 2
 
 # Parámetros de Traducción Estandarizados - Tranquality
 
-**Tiempo estimado**: 30 minutos
-
 **Modalidad**: Estudio dirigido y aplicación práctica
 
 Estas especificaciones de Tranquality serán nuestro marco de trabajo durante todo el semestre para establecer parámetros claros en cada proyecto de traducción. Es fundamental que comprendas cada sección a fondo, ya que aplicaremos estos 21 parámetros consistentemente para definir audiencia, propósito, registro, y todos los aspectos técnicos de nuestras traducciones profesionales.
