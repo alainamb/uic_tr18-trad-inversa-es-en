@@ -32,15 +32,18 @@ Una parte importante de establecer especificaciones es entender quién usará nu
 
 | **Categoría** | **Cantidad** |
 |---------------|--------------|
-| México - Población total (2020) | 126,014,024 <sup>1</sup> |
-| Entradas de extranjeros, enero a septiembre 2024 | 25,916,422 [^2] |
-| Entradas de extranjeros residentes temporales, enero a septiembre 2024 | 269,831 |
-| Total de personas extranjeras documentadas con la Tarjeta de Residente Temporal (TRT), enero a septiembre 2024 | 44,130 |
+| México - Población total (2020) | 126,014,024<sup>1</sup> |
+| Entradas de extranjeros, enero a septiembre 2024 | 25,916,422<sup>2</sup> |
+| Entradas de extranjeros residentes temporales, enero a septiembre 2024 | 269,831<sup>3</sup> |
+| Total de personas extranjeras documentadas con la Tarjeta de Residente Temporal (TRT), enero a septiembre 2024 | 44,130 <sup>4</sup> |
 
-[^1] Instituto Nacional de Estadística y Geografía (INEGI), https://www.inegi.org.mx
-
+<sup>1</sup> Instituto Nacional de Estadística y Geografía (INEGI), https://www.inegi.org.mx
+<sup>2-3</sup> "Tabla 1.1 Total de entradas según condición de estancia, 2024." Boletín Mensual de Estadísticas Migratorias 2024. Unidad de Política Migratoria, Registro e Identidad de Personas.
+<sup>4</sup> "Tabla 2.2.1 Personas extranjeras documentadas con la Tarjeta de Residente Temporal (TRT), según continente y país de nacionalidad, 2024." Boletín Mensual de Estadísticas Migratorias 2024. Unidad de Política Migratoria, Registro e Identidad de Personas.
 
 ### Distribución por región de nacionalidad
+
+#### Personas extranjeras documentadas con la Tarjeta de Residente Temporal (TRT), enero a septiembre 2024 - Región de nacionalidad<sup>1</sup>
 
 | **Región** | **Cantidad** |
 |------------|--------------|
@@ -53,6 +56,8 @@ Una parte importante de establecer especificaciones es entender quién usará nu
 | Oceanía | 111 |
 | África | 388 |
 
+<sup>1</sup> "Tabla 2.2.1 Personas extranjeras documentadas con la Tarjeta de Residente Temporal (TRT), según continente y país de nacionalidad, 2024." Boletín Mensual de Estadísticas Migratorias 2024. Unidad de Política Migratoria, Registro e Identidad de Personas.
+
 ### Reflexión sobre la audiencia
 
 **Observa los números:** ¿Qué nos dicen estos datos sobre nuestra audiencia objetivo?
@@ -62,9 +67,13 @@ Una parte importante de establecer especificaciones es entender quién usará nu
 - Europa representa el 13%
 - Otras regiones suman casi el 50%
 
+**¿Qué está tratando de hacer este texto?** El texto debe permitir que extranjeros—para quienes el inglés puede no ser su primera lengua—entiendan exactamente qué necesitan hacer para obtener su permiso de trabajo. Dado que el incumplimiento de requisitos puede resultar en negación del trámite, es especialmente importante que la traducción use **lenguaje claro y directo**.
+
 **Implicación para la traducción:** Necesitamos un inglés **internacional** y accesible, no centrado únicamente en las convenciones estadounidenses.
 
 ## Especificaciones para nuestro texto de inmigración
+
+De nuestra investigación sobre la audiencia, podemos definir muchas especificaciones importantes.
 
 ### Audiencia objetivo
 - **Primaria**: Extranjeros residentes temporales en México de diversas nacionalidades que buscan obtener permiso de trabajo
@@ -74,8 +83,6 @@ Una parte importante de establecer especificaciones es entender quién usará nu
 - **Informativo**: Explicar requisitos y procedimientos claramente
 - **Instrumental**: Permitir que los usuarios completen el trámite exitosamente
 - **Cumplimiento**: Ayudar a las personas a cumplir con requisitos estrictos gubernamentales
-
-**¿Qué está tratando de hacer este texto?** El texto debe permitir que extranjeros—para quienes el inglés puede no ser su primera lengua—entiendan exactamente qué necesitan hacer para obtener su permiso de trabajo. Dado que el incumplimiento de requisitos puede resultar en negación del trámite, es especialmente importante que la traducción use **lenguaje claro y directo**.
 
 ### Registro y tono
 - **Formal**: Mantener la autoridad del documento oficial
