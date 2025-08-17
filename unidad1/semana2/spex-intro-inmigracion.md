@@ -12,7 +12,7 @@ nav_order: 1
 
 **Modalidad**: Actividad dirigida y análisis grupal
 
-En esta actividad aplicaremos el concepto de especificaciones de traducción al texto de inmigración que tradujiste la semana pasada. Las especificaciones nos permiten transformar la idea subjetiva de "calidad" en criterios objetivos y medibles.
+En esta actividad aplicaremos el concepto de especificaciones de traducción [al texto de inmigración](../semana1/texto1-inmigracion.md) que tradujiste la semana pasada. Las especificaciones nos permiten transformar la idea subjetiva de "calidad" en criterios objetivos y medibles.
 
 ## ¿Qué son las especificaciones de traducción?
 
