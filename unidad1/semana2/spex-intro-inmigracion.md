@@ -32,7 +32,7 @@ Una parte importante de establecer especificaciones es entender quién usará nu
 
 | **Categoría** | **Cantidad** |
 |---------------|--------------|
-| México - Población total (2020) | 126,014,024 [^1] |
+| México - Población total (2020) | 126,014,024 <sup>1</sup> |
 | Entradas de extranjeros, enero a septiembre 2024 | 25,916,422 [^2] |
 | Entradas de extranjeros residentes temporales, enero a septiembre 2024 | 269,831 |
 | Total de personas extranjeras documentadas con la Tarjeta de Residente Temporal (TRT), enero a septiembre 2024 | 44,130 |
