@@ -73,7 +73,7 @@ Una parte importante de establecer especificaciones es entender quién usará nu
 
 **Implicación para la traducción:** Necesitamos un inglés **internacional** y accesible, no centrado únicamente en las convenciones estadounidenses.
 
-## Especificaciones para nuestro texto de inmigración
+## Especificaciones relacionadas con la audiencia y el propósito para nuestro texto de inmigración
 
 De nuestra investigación sobre la audiencia, podemos definir muchas especificaciones importantes.
 
@@ -91,12 +91,24 @@ De nuestra investigación sobre la audiencia, podemos definir muchas especificac
 - **Accesible**: Evitar jerga innecesaria que pueda confundir a no nativos del inglés
 - **Directo**: Información clara y bien organizada
 
-### Consideraciones culturales
-- **Sistema legal**: Explicar conceptos específicos del derecho mexicano cuando sea necesario
-- **Procedimientos**: Mantener referencias exactas a documentos y procesos mexicanos
-- **Moneda y contactos**: Conservar pesos mexicanos y números telefónicos locales
+
 
 ## Terminología especializada: Análisis del glosario
+
+Al definir las especificaciones de un texto, tenemos que identificar la terminología especializada que contiene el texto. 
+
+| **ES-MX Term** | **EN-INTL Term** | **Notas** |
+|----------------|------------------|-----------
+| Estados Unidos | 7,208 |
+| Canada | 1,457 |
+| Europa | 5,553 |
+| Asia | 9,611 |
+| Islas del Caribe | 4,316 |
+| Brazil | 1,376 |
+| Oceanía | 111 |
+| África | 388 |
+
+
 
 Al analizar la terminología del texto de inmigración, observamos varios patrones importantes:
 
@@ -130,6 +142,13 @@ Para términos como "residente temporal estudiante":
 - ✅ "temporary resident student" (orden oficial establecido)
 
 **Criterio**: Seguir las traducciones oficiales existentes, incluso si no son las "mejores" traducciones, para mantener consistencia con documentos gubernamentales.
+
+### Consideraciones culturales
+- **Sistema legal**: Explicar conceptos específicos del derecho mexicano cuando sea necesario
+- **Procedimientos**: Mantener referencias exactas a documentos y procesos mexicanos
+- **Moneda y contactos**: Conservar pesos mexicanos y números telefónicos locales
+
+
 
 ## Especificaciones técnicas
 
