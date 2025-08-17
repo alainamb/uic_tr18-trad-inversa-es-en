@@ -110,11 +110,11 @@ Al definir las especificaciones de un texto, tenemos que identificar la terminol
 | tarjeta de residente temporal estudiante | temporary student resident card |  |
 | trámite migratorio de estancia | immigratory stay procedure |  |
 | Formato para solicitar trámite migratorio de estancia |  | **Form**: https://www.inm.gob.mx/tramites/publico/solicitud_internacion.html |
-| constancia de inscripción del empleador (CIE) | Employer Registration Certificate | **Definición (ES)**: "documento que debe obtener la persona moral (empresa) o física que desea contratar personal extranjero y se tramita ante las Oficinas de Atención a Trámites del Instituto Nacional de Migración (INM)" **Fuentes**: https://mexico.iom.int/sites/g/files/tmzbdl1686/files/infografia-cie_01_2020121_0.pdf, https://www.littler.com/publication-press/publication/mexico-updating-employer-registration-certificate |
+| constancia de inscripción del empleador (CIE) | Employer Registration Certificate | **Definición (ES)**: "documento que debe obtener la persona moral (empresa) o física que desea contratar personal extranjero y se tramita ante las Oficinas de Atención a Trámites del Instituto Nacional de Migración (INM)" <br>**Fuentes**: https://mexico.iom.int/sites/g/files/tmzbdl1686/files/infografia-cie_01_2020121_0.pdf, https://www.littler.com/publication-press/publication/mexico-updating-employer-registration-certificate |
 | escrito bajo protesta de decir verdad | written statement under oath |  |
 | Oficina de Representación | Representative Office |  |
-| Ley de Derechos | Law on Fees/Duties | **Ley**: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf, **Fuente**: https://rimap.unhcr.org/node/68163 |
-| Ley Federal de Procedimiento Administrativo | Federal Law on Administrative Procedures | **Ley**: https://www.diputados.gob.mx/LeyesBiblio/pdf/112_180518.pdf, **Fuente**: https://www.wipo.int/wipolex/en/legislation/details/18071 |
+| Ley de Derechos | Law on Fees/Duties | **Ley**: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf <br>**Fuente**: https://rimap.unhcr.org/node/68163 |
+| Ley Federal de Procedimiento Administrativo | Federal Law on Administrative Procedures | **Ley**: https://www.diputados.gob.mx/LeyesBiblio/pdf/112_180518.pdf <br>**Fuente**: https://www.wipo.int/wipolex/en/legislation/details/18071 |
 | Registro Federal de Contribuyentes | Federal Taxpayer Registry |  |
 
 Al analizar la terminología del texto de inmigración, observamos varios patrones importantes:
