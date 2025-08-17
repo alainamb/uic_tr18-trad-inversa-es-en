@@ -87,6 +87,10 @@ Cada grupo preparará:
 
 Una vez completado el análisis grupal, tendrás una base sólida para abordar la traducción del texto. Las observaciones y preguntas que surjan hoy te servirán directamente en tu proyecto de traducción.
 
+## Obras consultadas
+
+Kail, Patricia. 1998. "How to Do a Close Reading". (Cómo hacer una lectura de cerca.) Centro de Escritura de Harvard College, Universidad de Harvard. Accedido a través de Wayback Machine: https://web.archive.org/web/20160620015119/https://writingcenter.fas.harvard.edu/pages/how-do-close-reading. 
+
 ---
 
 ## 📥 Descarga esta Actividad
