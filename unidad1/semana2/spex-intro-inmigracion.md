@@ -73,7 +73,7 @@ Una parte importante de establecer especificaciones es entender quién usará nu
 
 **Implicación para la traducción:** Necesitamos un inglés **internacional** y accesible, no centrado únicamente en las convenciones estadounidenses.
 
-## Especificaciones relacionadas con la audiencia y el propósito para nuestro texto de inmigración
+## Especificaciones relacionadas con la audiencia y el propósito
 
 De nuestra investigación sobre la audiencia, podemos definir muchas especificaciones importantes.
 
