@@ -8,7 +8,7 @@ nav_order: 1
 
 # Especificaciones de Traducción para Textos de Inmigración
 
-**Tiempo estimado**: 60 minutos
+**Tiempo estimado**: 30 minutos
 
 **Modalidad**: Actividad dirigida y análisis grupal
 
