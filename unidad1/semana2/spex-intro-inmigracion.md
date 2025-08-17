@@ -91,6 +91,11 @@ De nuestra investigación sobre la audiencia, podemos definir muchas especificac
 - **Accesible**: Evitar jerga innecesaria que pueda confundir a no nativos del inglés
 - **Directo**: Información clara y bien organizada
 
+### Elementos a adaptar
+- **Claridad**: Simplificar construcciones sintácticas complejas
+- **Accesibilidad**: Usar vocabulario comprensible para audiencia internacional
+- **Flujo**: Reorganizar información si mejora la comprensión
+
 ## Terminología especializada: Análisis del glosario
 
 Al definir las especificaciones de un texto, tenemos que identificar la terminología especializada que contiene el texto. 
@@ -155,6 +160,8 @@ De nuestra investigación sobre la terminología, podemos definir otras especifi
 
 ## Especificaciones técnicas
 
+Luego al analizar el texto, todavía hay más especificaiones que debemos notar.
+
 ### Formato y estructura
 - **Tablas**: Mantener la estructura tabular para facilitar consulta
 - **Enlaces**: Preservar enlaces a sitios oficiales mexicanos
@@ -164,11 +171,6 @@ De nuestra investigación sobre la terminología, podemos definir otras especifi
 - **Montos**: Mantener pesos mexicanos (no convertir a otras monedas)
 - **Teléfonos**: Conservar números mexicanos
 - **Direcciones web**: Mantener enlaces a sitios .gob.mx
-
-### Elementos a adaptar
-- **Claridad**: Simplificar construcciones sintácticas complejas
-- **Accesibilidad**: Usar vocabulario comprensible para audiencia internacional
-- **Flujo**: Reorganizar información si mejora la comprensión
 
 ## Actividad práctica
 
