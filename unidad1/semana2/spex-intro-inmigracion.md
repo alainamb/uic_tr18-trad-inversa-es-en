@@ -32,13 +32,15 @@ Una parte importante de establecer especificaciones es entender quién usará nu
 
 | **Categoría** | **Cantidad** |
 |---------------|--------------|
-| México - Población total (2020) | 126,014,024<sup>1</sup> |
-| Entradas de extranjeros, enero a septiembre 2024 | 25,916,422<sup>2</sup> |
-| Entradas de extranjeros residentes temporales, enero a septiembre 2024 | 269,831<sup>3</sup> |
+| México - Población total (2020) | 126,014,024 <sup>1</sup> |
+| Entradas de extranjeros, enero a septiembre 2024 | 25,916,422 <sup>2</sup> |
+| Entradas de extranjeros residentes temporales, enero a septiembre 2024 | 269,831 <sup>3</sup> |
 | Total de personas extranjeras documentadas con la Tarjeta de Residente Temporal (TRT), enero a septiembre 2024 | 44,130 <sup>4</sup> |
 
 <sup>1</sup> Instituto Nacional de Estadística y Geografía (INEGI), https://www.inegi.org.mx
+
 <sup>2-3</sup> "Tabla 1.1 Total de entradas según condición de estancia, 2024." Boletín Mensual de Estadísticas Migratorias 2024. Unidad de Política Migratoria, Registro e Identidad de Personas.
+
 <sup>4</sup> "Tabla 2.2.1 Personas extranjeras documentadas con la Tarjeta de Residente Temporal (TRT), según continente y país de nacionalidad, 2024." Boletín Mensual de Estadísticas Migratorias 2024. Unidad de Política Migratoria, Registro e Identidad de Personas.
 
 ### Distribución por región de nacionalidad
