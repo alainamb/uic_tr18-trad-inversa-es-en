@@ -37,7 +37,7 @@ Una parte importante de establecer especificaciones es entender quién usará nu
 | Entradas de extranjeros residentes temporales, enero a septiembre 2024 | 269,831 <sup>3</sup> |
 | Total de personas extranjeras documentadas con la Tarjeta de Residente Temporal (TRT), enero a septiembre 2024 | 44,130 <sup>4</sup> |
 
-<sup>1</sup> <small>Instituto Nacional de Estadística y Geografía (INEGI), https://www.inegi.org.mx</small>
+> <sup>1</sup> <small>Instituto Nacional de Estadística y Geografía (INEGI), https://www.inegi.org.mx</small>
 
 <sup>2-3</sup> <small>"Tabla 1.1 Total de entradas según condición de estancia, 2024." Boletín Mensual de Estadísticas Migratorias 2024. Unidad de Política Migratoria, Registro e Identidad de Personas.</small>
 
