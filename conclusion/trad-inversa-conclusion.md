@@ -148,8 +148,6 @@ Has invertido en desarrollar competencias que te servirán a lo largo de tu carr
 
 La comunidad global de traducción necesita profesionales capacitados que puedan tender puentes comunicativos con experiencia, sensibilidad cultural y conciencia ética. Estás preparado para contribuir como uno de esos profesionales.
 
-**Bienvenido a tu futuro como especialista en traducción inversa. El mundo espera tus contribuciones.**
-
 ---
 
 ## 📥 Descargar Conclusión del Curso
