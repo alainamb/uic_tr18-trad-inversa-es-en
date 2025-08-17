@@ -39,9 +39,9 @@ Una parte importante de establecer especificaciones es entender quién usará nu
 
 <sup>1</sup> <small>Instituto Nacional de Estadística y Geografía (INEGI), https://www.inegi.org.mx</small>
 
-<sup>2-3</sup> "Tabla 1.1 Total de entradas según condición de estancia, 2024." Boletín Mensual de Estadísticas Migratorias 2024. Unidad de Política Migratoria, Registro e Identidad de Personas.
+<sup>2-3</sup> <small>"Tabla 1.1 Total de entradas según condición de estancia, 2024." Boletín Mensual de Estadísticas Migratorias 2024. Unidad de Política Migratoria, Registro e Identidad de Personas.</small>
 
-<sup>4</sup> "Tabla 2.2.1 Personas extranjeras documentadas con la Tarjeta de Residente Temporal (TRT), según continente y país de nacionalidad, 2024." Boletín Mensual de Estadísticas Migratorias 2024. Unidad de Política Migratoria, Registro e Identidad de Personas.
+<sup>4</sup> <small>"Tabla 2.2.1 Personas extranjeras documentadas con la Tarjeta de Residente Temporal (TRT), según continente y país de nacionalidad, 2024." Boletín Mensual de Estadísticas Migratorias 2024. Unidad de Política Migratoria, Registro e Identidad de Personas.</small>
 
 ### Distribución por región de nacionalidad
 
@@ -58,7 +58,7 @@ Una parte importante de establecer especificaciones es entender quién usará nu
 | Oceanía | 111 |
 | África | 388 |
 
-<sup>1</sup> "Tabla 2.2.1 Personas extranjeras documentadas con la Tarjeta de Residente Temporal (TRT), según continente y país de nacionalidad, 2024." Boletín Mensual de Estadísticas Migratorias 2024. Unidad de Política Migratoria, Registro e Identidad de Personas.
+<sup>1</sup> <small>"Tabla 2.2.1 Personas extranjeras documentadas con la Tarjeta de Residente Temporal (TRT), según continente y país de nacionalidad, 2024." Boletín Mensual de Estadísticas Migratorias 2024. Unidad de Política Migratoria, Registro e Identidad de Personas.</small>
 
 ### Reflexión sobre la audiencia
 
