@@ -79,7 +79,7 @@ Para **5 segmentos específicos** del texto, propón traducciones alternativas y
 
 ## Ejercicio 2: Análisis de texto libre
 
-### Selección de texto
+### Parte A: Selección de texto
 
 Encuentra un texto fuente en español de **300-500 palabras** que ejemplifique las diferencias morfosintácticas estudiadas. Opciones recomendadas:
 
@@ -92,11 +92,11 @@ Encuentra un texto fuente en español de **300-500 palabras** que ejemplifique l
 - Produce tu propia traducción del texto completo
 - Enfócate en navegar las diferencias morfosintácticas identificadas
 
-### Análisis morfosintáctico
+### Parte B: Análisis morfosintáctico
 
-Identifica **5 diferencias morfosintácticas** significativas en tu texto seleccionado, usando el mismo formato de tabla del Ejercicio 1, Parte A.
+Identifica **5 diferencias morfosintácticas** significativas en tu texto seleccionado, usando el mismo formato de tabla del Ejercicio 1, Parte A. Para ampliar tu entendimiento de las diferencias morfosintácticos entre español e inglés, puedes basar tu trabajo esta vez en las categorías identificadas en el capítulo ["Selected Structural Contrasts"](referencias/Beeby-Lonsdale_ES-EN-Structural-Contrasts.pdf) por Allison Beeby Lonsdale.
 
-### Propuestas de traducción
+### Parte C: Propuestas de traducción
 
 Propón **5 traducciones alternativas** usando el formato de tabla del Ejercicio 1, Parte B.
 
@@ -147,7 +147,7 @@ Al terminar con las partes A y B, comparte tus reflexiones sobre las estrategias
 
 ### Obras citadas
 - Haywood, Thompson & Hervey (2009). "The formal properties of texts: syntactical, morphological and discourse issues." *Thinking Spanish Translation.*
-- Beeby Lonsdale (1996). "Selected Structural Contrasts" - contrastes estructurales seleccionados
+- Beeby Lonsdale (1996). "Selected Structural Contrasts." *Teaching Translation from Spanish to English.*
 
 ---
 
