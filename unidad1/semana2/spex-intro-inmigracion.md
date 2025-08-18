@@ -139,7 +139,7 @@ Este término aparece frecuentemente en el texto:
 
 **Principio de consistencia**: Una vez que establecemos la traducción "temporary resident", debemos mantenerla en todas las variaciones.
 
-**Orden de palabras en términos compuestos**:
+**Orden de palabras en términos compuestos**
 
 Para términos como "residente temporal estudiante":
 
