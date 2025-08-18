@@ -52,7 +52,8 @@ Examina el fragmento de *Corazón tan blanco* de Javier Marías y su traducción
 > I did not want to know but I have since learned that one of the girls, when she wasn't a girl anymore and hadn't long been back from her honeymoon, went into the bathroom, stood in front of the mirror, unbottoned her blouse, took off her bra and aimed her own father's gun at her heart, her father at that time was in the dining room with other members of the family and three guests. When they heard the shot, her father didn't get up at once, but stayed there for a few seconds, paralyzed, his mouth still full of food, not daring to chew (...)
 
 **Contexto para el contenido**
-La primera parte del texto fuente es el comienzo de la exitosa novela de Javier Marías, *Corazón tan blanco* (publicada por primera vez en 1992). La segunda parte proviene de más adelante en el mismo párrafo extenso que abarca las primeras ocho páginas del libro... La traducción es de **A Heart so White** por Margaret Jull Costa (2000).
+
+La primera parte del texto fuente es el comienzo de la exitosa novela de Javier Marías, *Corazón tan blanco* (publicada por primera vez en 1992). La segunda parte proviene de más adelante en el mismo párrafo extenso que abarca las primeras ocho páginas del libro... La traducción es de *A Heart so White* por Margaret Jull Costa (2000).
 
 ### Parte A: Identificación de diferencias sintácticas
 
