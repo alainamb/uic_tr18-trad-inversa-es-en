@@ -58,12 +58,12 @@ La primera parte del texto fuente es el comienzo de la exitosa novela de Javier 
 Identifica **5 diferencias sintácticas** entre el texto fuente y la traducción, basando tu trabajo en las categorías identificadas en el capítulo ["Syntactical, morphological and discourse issues"](referencias/Haywood_ES-EN-Grammar-Differences-Chapter.pdf) por Louise M. Haywood, Michael Thompson y Sándor Hervey. Para cada diferencia, completa la siguiente tabla:
 
 | **Texto fuente** | **Texto traducido** | **Categoría de la diferencia** | **Discusión de la diferencia** |
-|------------------|---------------------|-----------------------------------|
+|------------------|---------------------|--------------------------------|--------------------------------|
 | [fragmento en español] | [fragmento en inglés] | [identificación de la categoría] | [discusión sobre la diferencia morfosintáctica] |
-| | | |
-| | | |
-| | | |
-| | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
 
 ### Parte B: Propuestas de traducción alternativa
 
