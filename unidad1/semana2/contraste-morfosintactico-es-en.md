@@ -69,9 +69,9 @@ Identifica **5 diferencias sintácticas** entre el texto fuente y la traducción
 
 Para **5 segmentos específicos** del texto, propón traducciones alternativas y justifica tus decisiones:
 
-| **Segmento original** | **Traducción de Jull Costa** | **Tu propuesta alternativa** | **Justificación** |
+| **Segmento original** | **Traducción de Jull Costa** | **Una propuesta alternativa** | **Justificación** |
 |----------------------|------------------------------|------------------------------|------------------|
-| [fragmento español] | [traducción publicada] | [tu versión] | [por qué tu versión podría ser efectiva] |
+| [fragmento español] | [traducción publicada] | [traducción alternativa] | [por qué tu versión podría ser efectiva] |
 | | | | |
 | | | | |
 | | | | |
