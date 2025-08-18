@@ -14,8 +14,6 @@ nav_order: 4
 
 **Tiempo estimado:** 2-3 horas
 
-**Fecha límite:** Domingo, 24 de agosto a las 11:59pm
-
 ## Descripción del ejercicio
 
 Esta actividad te permite aplicar el conocimiento teórico sobre las diferencias morfosintácticas entre español e inglés a textos reales de traducción. Trabajarás con ejemplos específicos para identificar patrones, analizar implicaciones para la traducción y proponer soluciones alternativas.
