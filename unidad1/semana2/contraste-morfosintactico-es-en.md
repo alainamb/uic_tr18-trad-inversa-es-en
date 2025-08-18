@@ -43,10 +43,10 @@ Si trabajas en grupo:
 
 Examina el fragmento de *Corazón tan blanco* de Javier Marías y su traducción al inglés por Margaret Jull Costa, identificando ejemplos de diferencias sintácticas. El fragmento completo con que trabajarás está disponible [aquí](referencias/Haywood_Ejercicio-Marías-Jull-Costa.pdf). Debajo encuentras un fragmento más corto del contenido.
 
-**Texto fuente (español):**
+**Texto fuente (español)**
 > No he querido saber, pero he sabido que una de las niñas, cuando ya no era niña y no hacía mucho que había regresado de su viaje de bodas, entró en el cuarto de baño, se puso frente al espejo, se abrió la blusa, se quitó el sostén y se buscó el corazón con la punta de la pistola de su propio padre, que estaba en el comedor con parte de la familia y tres invitados. Cuando se oyó la detonación, el padre no se levantó enseguida, sino que se quedó durante algunos segundos paralizado con la boca llena, sin atreverse a masticar (...)
 
-**Texto traducido (inglés):**
+**Texto traducido (inglés)**
 > I did not want to know but I have since learned that one of the girls, when she wasn't a girl anymore and hadn't long been back from her honeymoon, went into the bathroom, stood in front of the mirror, unbottoned her blouse, took off her bra and aimed her own father's gun at her heart, her father at that time was in the dining room with other members of the family and three guests. When they heard the shot, her father didn't get up at once, but stayed there for a few seconds, paralyzed, his mouth still full of food, not daring to chew (...)
 
 **Contexto para el contenido**
