@@ -8,7 +8,7 @@ nav_order: 2
 
 # Parámetros de Traducción Estandarizados - Tranquality
 
-Estas especificaciones de Tranquality serán nuestro marco de trabajo durante todo el semestre para establecer parámetros claros en cada proyecto de traducción. Es fundamental que comprendas cada sección a fondo, ya que aplicaremos estos 21 parámetros consistentemente para definir audiencia, propósito, registro, y todos los aspectos técnicos de nuestras traducciones profesionales.
+Estas [especificaciones de Tranquality](https://www.tranquality.info/specs/) serán nuestro marco de trabajo durante todo el semestre para establecer parámetros claros en cada proyecto de traducción. Es fundamental que comprendas cada sección a fondo, ya que aplicaremos estos 21 parámetros consistentemente para definir audiencia, propósito, registro, y todos los aspectos técnicos de nuestras traducciones profesionales.
 
 ## Parámetros de Traducción Estandarizados
 
@@ -110,7 +110,7 @@ La siguiente lista de parámetros está adaptada de *ASTM F2575: Guía Estándar
 
 **Notas:** En 1, 7 y 8: la audiencia y propósito pueden ser plurales en algunos casos. Las tareas en 14c (verificación, revisión y corrección) que pueden seguir a la traducción inicial se toman de la ISO 17100.
 
-*Esta página es una recreación de las especificaciones encontradas aquí: https://www.tranquality.info/specs/*
+*Esta página es una recreación de las especificaciones encontradas aquí: [https://www.tranquality.info/specs/](https://www.tranquality.info/specs/)*
 
 *Traducido por Alaina Brandt y Adela Campos Espinosa de los Monteros.*
 
