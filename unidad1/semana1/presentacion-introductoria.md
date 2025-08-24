@@ -41,7 +41,7 @@ La presentación cubre los siguientes temas principales:
 
 ## Instrucciones
 
-1. **Descarga y revisa la presentación** que se encuentra en la carpeta para [semana 1](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/tree/main/unidad1/semana1) de nuestro sitio del curso.
+1. **Descarga y revisa la presentación** que se encuentra en la carpeta de [referencias](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/tree/main/unidad1/semana1/referencias) para semana 1 de nuestro sitio del curso.
 
 2. **Lee cada sección** de la presentación, tomando notas sobre los conceptos clave.
 
