@@ -20,8 +20,6 @@ Esta guía establece los estándares profesionales para traducir documentos pers
 ### Integridad del documento
 La traducción **jamás sustituye** al original. Solo facilita la comprensión del contenido. Por tanto, debemos reportar lo que observamos usando notaciones estándar sin incluir capturas de pantalla de elementos como sellos o firmas, ya que esto crea la apariencia falsa de que la traducción ha sido sellada o firmada por la autoridad emisora del original.
 
-Recuerda que tu trabajo será utilizado por evaluadores profesionales para tomar decisiones importantes sobre el futuro académico de las personas. La precisión, investigación exhaustiva y presentación profesional no son solo estándares del curso, sino responsabilidades éticas hacia quienes confían en nuestro trabajo.
-
 ## Recursos de investigación
 
 ### Para consulta durante el trabajo
@@ -140,6 +138,10 @@ Recuerda que tu trabajo será utilizado por evaluadores profesionales para tomar
 - **Objetivo:** Lograr correspondencia página por página cuando sea posible
 - **Flexibilidad:** Priorizar claridad y legibilidad si el contenido requiere ajustes menores
 - **Estándar:** Facilitar comparación directa para evaluadores
+
+## Mantenimiento de calidad
+
+Recuerda que tu trabajo será utilizado por evaluadores profesionales para tomar decisiones importantes sobre el futuro académico de las personas. La precisión, investigación exhaustiva y presentación profesional no son solo estándares del curso, sino responsabilidades éticas hacia quienes confían en nuestro trabajo.
 
 ---
 
