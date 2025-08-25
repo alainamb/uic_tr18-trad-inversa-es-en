@@ -119,4 +119,4 @@ Para profundizar en tu comprensión del formateo de documentos, prueba estos pro
 
 ---
 
-**Próxima actividad:** [Proyecto Texto 2](./proyecto-texto2.md)
+**Siguiente:** [Proyecto Texto 2](./proyecto-texto2.md)
