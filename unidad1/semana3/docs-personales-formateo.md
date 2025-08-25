@@ -35,7 +35,7 @@ También el video muestra el flujo de trabajo para la recreación del formateo d
 
 ## Buenas prácticas para formateo profesional
 
-En el artículo "How to Build Healthy, Long-Lasting Relationships with Project Managers"(https://alainambrandt.locessentials.com/how-to-build-healthy-long-lasting-relationships-with-project-managers/#more-38), Alaina Brandt proporciona los siguientes consejos sobre la recreación de documentos:
+En el artículo "[How to Build Healthy, Long-Lasting Relationships with Project Managers](https://alainambrandt.locessentials.com/how-to-build-healthy-long-lasting-relationships-with-project-managers/#more-38)", Alaina Brandt proporciona los siguientes consejos sobre la recreación de documentos:
 
 - **No uses OCR** - El consejo dado en 2015 de evitar OCR sigue siendo válido hoy: "OCRed files can cause problems with textual features like font types, kerning (the space between characters), incorrect character recognition, and line breaks that cannot be fixed/altered during translation."
 - **Usa tablas en lugar de tabs y espacios** - "Using tabs and hard returns when replicating a table is problematic because if a PM or internal reviewer needs to change the font size of a document, for example, line breaks may shift, and she will need to manually adjust all tabs in order to re-match the line items to the formatting of the source."
