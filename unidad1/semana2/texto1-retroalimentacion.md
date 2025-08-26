@@ -41,7 +41,7 @@ Si [4] eres extranjero residente temporal o temporal estudiante puedes solicitar
 
 | **Documento requerido** | **[6] Presentación** |
 |-------------------------|------------------|
-| [Formato para solicitar [7] trámite migratorio de estancia, llenado de manera electrónica a través de la página de internet, con [8] firma autógrafa del promovente](https://www.inm.gob.mx/tramites/publico/estancia.html)[9] | Original |
+| [Formato para solicitar [7] trámite migratorio de estancia, llenado de manera electrónica a través de la página de internet, con [8] firma autógrafa del promovente](https://www.inm.gob.mx/tramites/publico/estancia.html) [9] | Original |
 | Tarjeta de residente temporal o de residente temporal estudiante [10] vigente | Original |
 | Comprobante del pago de derechos que corresponda de conformidad con la [11] Ley Federal de Derechos | Original |
 | Carta [12] oferta de empleo en papel membretado de [13] persona física o moral en la que se indique actividad a realizar, temporalidad requerida, lugar de trabajo y los datos de la [14] constancia de inscripción del empleador debidamente actualizada | Original |
