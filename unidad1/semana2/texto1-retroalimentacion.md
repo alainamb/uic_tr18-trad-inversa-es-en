@@ -48,7 +48,7 @@ Si [4] eres extranjero residente temporal o temporal estudiante puedes solicitar
 
 **[15] En caso de actividades independientes, deberá adjuntar:**
 
-- [Escrito [16] bajo protesta de decir verdad]([17] http://www.inm.gob.mx/static/vun_tramites/Escrito_para_trabajar_de_manera_independiente.pdf) en el que manifieste la ocupación a la que se dedicará y el lugar en el que desarrollará las actividades propias de su ocupación. Descargar y [18] requisitar. **Original**
+- [Escrito [16] bajo protesta de decir verdad](http://www.inm.gob.mx/static/vun_tramites/Escrito_para_trabajar_de_manera_independiente.pdf) [17] en el que manifieste la ocupación a la que se dedicará y el lugar en el que desarrollará las actividades propias de su ocupación. Descargar y [18] requisitar. **Original**
 
 - Comprobante de la inscripción en el [19] Registro Federal de Contribuyentes. **Copia**
 
