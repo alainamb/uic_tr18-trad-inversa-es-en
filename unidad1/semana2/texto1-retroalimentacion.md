@@ -87,7 +87,7 @@ La [32] hoja de ayuda se deberá llenar atendiendo a las siguientes especificaci
 
 **En línea:** Empieza [36] tu solicitud en línea, [37] imprime e ingresa de manera presencial.
 
-**Presencial:** En la [38] oficina de atención a trámites del Instituto](http://www.inm.gob.mx/gobmx/word/index.php/horarios-y-oficinas/) que corresponda al domicilio del [39] interesado. En caso de que la ubicación de la Oficina de Representación que le corresponda sea lejana, [40] se sugiere contactar vía telefónica a ésta, solicitando informes por una oficina del INM más cercana a su domicilio.
+**Presencial:** En la [38] [oficina de atención a trámites del Instituto](http://www.inm.gob.mx/gobmx/word/index.php/horarios-y-oficinas/) que corresponda al domicilio del [39] interesado. En caso de que la ubicación de la Oficina de Representación que le corresponda sea lejana, [40] se sugiere contactar vía telefónica a ésta, solicitando informes por una oficina del INM más cercana a su domicilio.
 
 **[41] Vía telefónica:** ([42] orientación) [43] 800 00 46264.
 
