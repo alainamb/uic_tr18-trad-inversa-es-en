@@ -97,7 +97,7 @@ La siguiente lista de parámetros está adaptada de *ASTM F2575: Guía Estándar
    3. **Restricciones** (sobre el uso de materiales, como memorias de traducción, después del proyecto, etc.)
 
 #### 20. **Presentaciones**
-   1. **Calificaciones** (calificaciones esperadas o requeridas del proveedor)
+   1. **Cualidades del traductor** (formación o experiencias esperadas o requeridas del proveedor)
    2. **Entregables** (el contenido meta en el formato especificado, base de términos actualizada, etc.)
    3. **Método de entrega** (correo electrónico, sFTP, etc., incluido el nombre y la dirección del destinatario)
    4. **Plazo de entrega** o tiempo de respuesta
@@ -112,7 +112,7 @@ La siguiente lista de parámetros está adaptada de *ASTM F2575: Guía Estándar
 
 *Esta página es una recreación de las especificaciones encontradas aquí: [https://www.tranquality.info/specs/](https://www.tranquality.info/specs/)*
 
-*Traducido por Alaina Brandt y Adela Campos Espinosa de los Monteros.*
+*Traducido por Alaina Brandt y Adela Campos Espinosa de los Monteros con revisiones basadas en conversaciones con estudiantes en esta clase.*
 
 ---
 
