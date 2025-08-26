@@ -8,11 +8,11 @@ nav_order: 3
 
 # Texto 1 - Retroalimentación sobre la Traducción
 
-Esta retroalimentación te ayudará a identificar los aspectos más desafiantes del texto de inmigración que tradujiste la semana pasada. El texto fuente contenía numerosos elementos que requieren consideración especial en la traducción español-inglés, desde terminología técnica hasta diferencias de registro y convenciones culturales.
+Esta retroalimentación te ayudará a identificar los aspectos más desafiantes del texto de inmigración que tradujiste la semana pasada. El texto fuente contenía numerosos elementos que requieren consideración especial en la traducción español-inglés, desde terminología técnica hasta diferencias de registro y convenciones culturales. 
 
 ## Análisis del texto fuente marcado
 
-A continuación encontrarás el texto fuente con casi **45 áreas marcadas** que presentan desafíos específicos para la traducción. Cada marca indica un aspecto que podría causar errores si no se maneja correctamente.
+A continuación encontrarás el texto fuente con casi **45 áreas marcadas** que presentan desafíos específicos para la traducción. Cada marca indica un aspecto que podría causar tipos de errores específicos si no se maneja correctamente. Repasa las áreas marcadas y determina por qué cada marca tiene la categorización y nivel de severidad que tiene.
 
 ### Convenciones de marcado
 
