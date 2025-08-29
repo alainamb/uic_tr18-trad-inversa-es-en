@@ -64,12 +64,18 @@ Tu traducción será evaluada según su **efectividad** - es decir, qué tan bie
 
 ### Rúbrica de evaluación
 
-| **Nivel** | **Puntos** | **Descripción** |
+Esta tarea será calificada como Completa / Incompleta.
+
+Tu traducción recibirá una puntuación de Correspondencia General donde 1 significa diferencias importantes de significado y 4 significa correspondencia excelente, y una Puntuación de Legibilidad General donde 1 significa difícil de leer y 4 significa que se lee de forma natural.
+
+Considerando tus puntuaciones de Correspondencia General y Legibilidad, puedes determinar si tu traducción es efectiva, mayormente efectiva, algo inefectiva o inefectiva/incompleta.
+
+| **Nivel** | **Correspondencia General** | **Legibilidad General** | **Descripción** |
 |-----------|------------|-----------------|
-| **Efectiva** | 3 | La traducción permite a los lectores entender completamente los requisitos y procedimientos. La terminología es apropiada, el texto es claro y natural en inglés. |
-| **Mayormente efectiva** | 2 | La traducción comunica la información esencial con claridad. Puede tener errores menores que no impiden la comprensión general. |
-| **Algo efectiva** | 1 | La traducción transmite información básica pero presenta problemas que pueden dificultar la comprensión o el uso del documento. |
-| **Inefectiva o incompleta** | 0 | La traducción no permite a los lectores entender los requisitos o está significativamente incompleta. |
+| **Efectiva** | 4 | 3-4 | La traducción permite a los lectores entender completamente los requisitos y procedimientos. La terminología es apropiada, el texto es claro y natural en inglés. |
+| **Mayormente efectiva** | 3 | 2-3 | La traducción comunica la información esencial con claridad. Puede tener errores menores que no impiden la comprensión general. |
+| **Algo inefectiva** | 2 | 2-3 | La traducción transmite información básica pero presenta problemas que pueden dificultar la comprensión o el uso del documento. |
+| **Inefectiva o incompleta** | 1 | 1 | La traducción no permite a los lectores entender los requisitos o está significativamente incompleta. |
 
 ## Notas importantes
 
