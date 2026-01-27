@@ -10,8 +10,6 @@ nav_order: 3
 
 **Puntos:** 3
 
-**Modalidad:** Grupos de 3 personas (algunas excepciones de grupos de 2)
-
 ## Descripción del proyecto
 
 Trabajando en grupo asignado, traducirán un documento personal (expediente académico) del español al inglés. Este proyecto combina traducción precisa con recreación profesional de formato, reflejando estándares de la industria para documentos personales utilizados en procesos migratorios y académicos.
