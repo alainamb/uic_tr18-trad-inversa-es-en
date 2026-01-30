@@ -25,7 +25,7 @@ Desarrollar competencia en identificar y manejar diferencias morfosintácticas e
 Organícense individualmente o en grupos de 2-3 personas para investigar diferencias morfosintácticas.
 
 **Paso 2: Análisis de Texto Literario**
-Examinen el fragmento de *Corazón tan blanco* de Javier Marías y su traducción al inglés por Margaret Jull Costa. <mark>El fragmento completo está disponible [aquí](referencias/Haywood_Ejercicio-Marías-Jull-Costa.pdf).</mark>
+Examinen el fragmento de *Corazón tan blanco* de Javier Marías y su traducción al inglés por Margaret Jull Costa. El fragmento completo está disponible [aquí](referencias/Haywood_Ejercicio-Marías-Jull-Costa.pdf).
 
 **Fragmento del texto fuente (español):**
 > No he querido saber, pero he sabido que una de las niñas, cuando ya no era niña y no hacía mucho que había regresado de su viaje de bodas, entró en el cuarto de baño, se puso frente al espejo, se abrió la blusa, se quitó el sostén y se buscó el corazón con la punta de la pistola de su propio padre, que estaba en el comedor con parte de la familia y tres invitados. Cuando se oyó la detonación, el padre no se levantó enseguida, sino que se quedó durante algunos segundos paralizado con la boca llena, sin atreverse a masticar (...)
