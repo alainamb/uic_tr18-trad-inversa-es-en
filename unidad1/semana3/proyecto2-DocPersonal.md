@@ -8,8 +8,6 @@ nav_order: 3
 
 # Proyecto 2 – Traducción de Documento Personal
 
-**Puntos:** 3
-
 ## Descripción del proyecto
 
 Trabajando en grupo asignado, traducirán un documento personal (expediente académico) del español al inglés. Este proyecto combina traducción precisa con recreación profesional de formato, reflejando estándares de la industria para documentos personales utilizados en procesos migratorios y académicos.
@@ -71,14 +69,13 @@ Tabla documentando el proceso colaborativo:
 ## Especificaciones para el proyecto
 
 ### Cualidades de la o el traductor
-
 Cumple con responsabilidades éticas hacia las personas cuyas vidas académicas representan estos documentos a través de:
 
 - Atención al detalle y capacidad de seguir todas las instrucciones para el proyecto
 - Conocimiento del campo de estudios reflejado en el documento o habilidad para investigarlo adecuadamente
 - Habilidad para aplicar las buenas prácticas tanto en la representación del contenido como en el formateo del documento
 
-###
+### Público y propósito
 - **Público:** Evaluadores educativos y funcionarios administrativos
 - **Propósito:**
   - Comparar lado a lado el documento original con la traducción
@@ -92,14 +89,14 @@ Cumple con responsabilidades éticas hacia las personas cuyas vidas académicas 
 - **Contenidos:**
   - Traducción
   - Registro de tiempos y tareas 
-- **Formato:** Microsoft Word (.docx)
-- **Nomenclatura:** `PrimerosApellidos_DocumentoPersonal.docx`
-- **Ejemplo:** `Aguilera-Brandt_DocumentoPersonal.docx`
-- **Estructura del nombre:** Primer apellido de cada integrante, separados por guiones, seguido de guión bajo y el nombre del archivo
+- **Formato:** Microsoft Word (.docx) y PDF (.pdf)
+- **Nomenclatura:** `Apellidos_DocPersonal.docx`
+  - **Ejemplo:** `: Brandt-AguileraMartínez-Chen_DocPersonal.docx`
+  - **Ejemplo:** `: Brandt-AguileraMartínez-Chen_DocPersonal.pdf`
 
 ### Entrega
 - **Una sola persona del equipo** sube el archivo
-- **Todas las personas** que contribuyeron deben estar claramente identificadas en el documento
+- **Todas las personas** que contribuyeron deben estar claramente identificadas al fin del documento
 
 ## Criterios de evaluación
 
