@@ -8,10 +8,6 @@ nav_order: 3
 
 # Proyecto 3 – Traducción Técnica IAG y Glosario
 
-**Puntos:** 3
-
-**Modalidad:** Grupos de 3 personas (algunas excepciones de grupos de 2)
-
 ## Descripción del proyecto
 
 Trabajando en el grupo asignado, traducirán un texto técnico sobre arquitectura de prompts para tutores inteligentes de programación basados en inteligencia artificial generativa (IAG). Este proyecto combina investigación terminológica profunda con traducción técnica precisa, reflejando las competencias profesionales necesarias para trabajar con textos especializados en tecnología emergente.
