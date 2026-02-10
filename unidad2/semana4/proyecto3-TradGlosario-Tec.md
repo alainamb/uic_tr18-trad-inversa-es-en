@@ -87,10 +87,10 @@ Párrafo de 150-200 palabras sobre:
 
 ### Formato de entrega
 - **Archivos:** 
-  - `PrimerosApellidos_texto3-prompts-sistema.md`
-  - `PrimerosApellidos_texto3-reflexion.docx`
-- **Nomenclatura:** Primer apellido de cada integrante, separados por guiones
-- **Ejemplo:** `Aguilera-Brandt-Morales_texto3-prompts-sistema.md`
+  - `Apellidos_prompts-sistema.md`
+  - `Apellidos_prompts-reflexion.docx`
+- **Nomenclatura:** Apellidos de cada integrante, separados por guiones
+- **Ejemplo:** `Aguilera-Brandt-Morales_prompts-sistema.md`
 - **Entrega:** Una sola persona del equipo sube ambos archivos
 
 ## Criterios de evaluación
