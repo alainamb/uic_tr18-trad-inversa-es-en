@@ -30,7 +30,7 @@ Trabajando en el grupo asignado, traducirán un texto técnico sobre ética en e
 
 ## Proceso del proyecto
 
-**Descarga el archivo** [texto4-etica-en-la-ia.md](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana4/GuIA.ai-ética.md) para trabajar con una copia local
+**Descarga el archivo** [GuIA.ai-ética.md](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad2/semana5/GuIA.ai-ética.md) para trabajar con una copia local
 
 #### Fase 1: Investigación terminológica colaborativa 
 1. **Análisis del texto fuente:** Identifica las especificaciones y los conceptos especializados en ética de IA
