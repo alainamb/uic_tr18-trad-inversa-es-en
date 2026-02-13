@@ -8,10 +8,6 @@ nav_order: 3
 
 # Proyecto 4 - Traducción Técnica IAG + Glosario (EVAL PARCIAL 1)
 
-**Puntos:** 10
-
-**Modalidad:** Grupos de 2-3 personas (según asignación en clase)
-
 ## Descripción del proyecto
 
 Trabajando en el grupo asignado, traducirán un texto técnico sobre ética en el desarrollo de sistemas de inteligencia artificial en el sector emprendedor de América Latina. Este proyecto requiere tanto una traducción técnica precisa como la creación de un glosario bilingüe especializado, reflejando las competencias profesionales necesarias para trabajar con textos especializados en ética y tecnología emergente.
@@ -111,11 +107,11 @@ Párrafo de 150-200 palabras sobre:
 
 ### Formato de entrega
 - **Archivos:** 
-  - `PrimerosApellidos_texto4-etica-ia.md`
-  - `PrimerosApellidos_texto4-glosario.xlsx`
-  - `PrimerosApellidos_texto4-reflexion.docx`
-- **Nomenclatura:** Primer apellido de cada integrante, separados por guiones
-- **Ejemplo:** `Aguilera-Brandt_texto4-etica-ia.md`
+  - `Apellidos_etica-ia.md`
+  - `Apellidos_etica-ia-glosario.xlsx`
+  - `Apellidos_etica-ia-reflexion.docx`
+- **Nomenclatura:** Apellido de cada integrante, separados por guiones
+- **Ejemplo:** `Aguilera-Brandt_etica-ia.md`
 - **Entrega:** Una sola persona del equipo sube los tres archivos
 
 ## Criterios de evaluación
