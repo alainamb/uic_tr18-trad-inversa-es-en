@@ -75,7 +75,7 @@ En cada diferencia, considera:
 
 ### Entrega
 
-**Archivo**: `[PrimerApellido]_traduccion-hibrida-con-lilt.docx`
+**Archivo**: `Apellidos_traduccion-hibrida-con-lilt.docx`
 
 **Extensión**: 1 página
 
