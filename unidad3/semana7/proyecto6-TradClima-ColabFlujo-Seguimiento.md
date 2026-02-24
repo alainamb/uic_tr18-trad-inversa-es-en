@@ -82,9 +82,9 @@ Si necesitan clarificaciones o recursos adicionales, inclúyanlos aquí.
 
 **Nombre del archivo:** `ApellidosDelMiembro1_ApellidosDelMiembro2_ApellidosDelMiembro3_Reporte-Seguimiento.docx`
 
-### 2. Contribuciones al Query Tracker de la clase (1 punto)
+### 2. Contribuciones al Query Tracker del equipo (1 punto)
 
-Como parte del trabajo colaborativo profesional, cada equipo debe documentar entre **3-5 consultas** en el Query Tracker compartido de la clase.
+Como parte del trabajo colaborativo profesional, cada equipo debe documentar entre **3-5 consultas** en un Query Tracker compartido entre su equipo. La próxima semana discutiremos las consultas documentadas en clase antes de que finalicen sus traducciones.
 
 #### ¿Qué tipo de consultas documentar?
 
@@ -124,12 +124,6 @@ Siguiendo las mejores prácticas de Marina Ilari:
 - Preguntas que demuestren falta de investigación previa
 - Tono descortés o demandante
 
-#### Acceso al Query Tracker
-
-El Query Tracker compartido de la clase está disponible en Teams.
-
-La próxima semana discutiremos las consultas documentadas en clase antes de que finalicen sus traducciones.
-
 ## Criterios de evaluación
 
 ### Puntuación total: 3 puntos
@@ -145,7 +139,7 @@ La próxima semana discutiremos las consultas documentadas en clase antes de que
 - [ ] El progreso está documentado con especificidad (no solo "hicimos X")
 - [ ] Los tiempos están detallados por fase y persona
 - [ ] Los próximos pasos están claramente identificados
-- [ ] Se han documentado 3-5 consultas en el Query Tracker de la clase
+- [ ] Se han documentado 3-5 consultas en el Query Tracker del equipo
 - [ ] Las consultas están bien formuladas y son profesionales
 - [ ] El archivo está nombrado correctamente
 - [ ] El documento tiene presentación profesional sin errores de ortografía
