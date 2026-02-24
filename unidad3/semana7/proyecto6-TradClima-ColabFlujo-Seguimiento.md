@@ -60,10 +60,10 @@ Documenten las horas trabajadas por cada integrante en cada fase:
 
 | **Fase** | **Integrante** | **Horas** |
 |----------|----------------|-----------|
-| Terminología | [Nombre] | [Horas] |
-| Traducción | [Nombre] | [Horas] |
-| Edición | [Nombre] | [Horas] |
-| Gestión de proyecto | [Nombre] | [Horas] |
+| Terminología | Nombre | Horas |
+| Traducción | Nombre | Horas |
+| Edición | Nombre | Horas |
+| Gestión de proyecto | Nombre | Horas |
 **Total de horas del Team Member 1:**  
 **Total de horas del Team Member 2:**  
 **Total de horas del Team Member 3:**  
