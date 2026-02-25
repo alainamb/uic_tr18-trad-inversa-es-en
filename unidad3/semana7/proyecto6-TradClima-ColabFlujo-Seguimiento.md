@@ -146,11 +146,13 @@ Siguiendo las mejores prácticas de Marina Ilari:
 
 ## Entrega
 
-**Una sola persona del equipo** sube el archivo del reporte de seguimiento a la plataforma del curso.
+**Una sola persona del equipo** sube los archivos del reporte de seguimiento y el "queries tracker" a la plataforma del curso.
 
-**Formato:** `ApellidosDelMiembro1_ApellidosDelMiembro2_ApellidosDelMiembro3_Proyecto6-Seguimiento.docx`
+**Reporte - Formato:** `Apellidos_Proyecto6-Seguimiento.docx`
+- **Ejemplo:** `GarcíaMartínez_López_Reporte-Seguimiento.docx`
 
-**Ejemplo:** `GarcíaMartínez_López_Reporte-Seguimiento.docx`
+**Queries Tracker - Formato:** `Apellidos_Proyecto6-QueriesTracker.docx` (aceptable en .xlsx or .docx, como quieran)
+- **Ejemplo:** `GarcíaMartínez_López_Reporte-Seguimiento.docx`
 
 ---
 
