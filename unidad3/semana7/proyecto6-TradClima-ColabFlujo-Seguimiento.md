@@ -133,7 +133,7 @@ Siguiendo las mejores prácticas de Marina Ilari:
 | **Reporte de seguimiento** | Efectivo: Documentación completa y específica del progreso, tiempo invertido detallado por fase y persona, identificación clara de próximos pasos y problemas<br>Parcialmente efectivo: Documentación incompleta o vaga, falta detalle en tiempos o próximos pasos<br>No efectivo: Reporte superficial, falta información crítica | 2 puntos<br><br>1 punto<br><br>0 puntos |
 | **Query Tracker** | Efectivo: 3-5 consultas bien formuladas, profesionales, demuestran investigación previa<br>No efectivo: Sin el número de consultas requeridas o consultas inapropiadas | 1 punto<br><br>0 puntos |
 
-**Nota importante: Para recibir los 3 puntos de este proyecto, su grupo debe haber completado al menos la mitad del trabajo. Es decir, deben tener la base de datos terminológica completa y una plantilla de la traducción (que no sean solo las traducciones automáticas de Lilt). Esto es para poder dialogar sobre desafíos específicos en nuestra próxima clase.**
+**Nota importante: Para recibir los 3 puntos de esta tarea, su grupo debe haber completado al menos la mitad del trabajo. Es decir, deben tener la base de datos terminológica completa y una plantilla de la traducción (que no sean solo las traducciones automáticas de Lilt). Esto es para poder dialogar sobre desafíos específicos en nuestra próxima clase.**
 
 ## Verificación antes de entregar
 
