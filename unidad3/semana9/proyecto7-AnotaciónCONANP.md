@@ -99,7 +99,7 @@ Una vez que hayas completado tu evaluación:
 2. Haz clic en **"Submit"** en Label Studio para entregar tu evaluación
 3. No necesitas descargar ni subir ningún archivo—tu trabajo se guarda automáticamente en Label Studio
 
-### Paso 5: Reflexión Escrita
+### Paso 5: Reflexión Escrita (OPCIONAL)
 
 Redacta una reflexión crítica (1-2 párrafos) sobre tu experiencia trabajando con MQM en Label Studio. Tu reflexión debe abordar:
 
@@ -133,7 +133,7 @@ Antes de hacer clic en "Submit" en Label Studio y entregar tu reflexión, verifi
 - [ ] He escrito comentarios holísticos sobre el documento completo
 - [ ] He hecho clic en **"Submit"** en Label Studio
 
-### Reflexión Escrita
+### Reflexión Escrita (OPCIONAL)
 - [ ] Mi reflexión tiene 1-2 párrafos (150-300 palabras aproximadamente)
 - [ ] He abordado las cuatro preguntas obligatorias
 - [ ] He incluido al menos dos elementos de reflexión crítica
@@ -149,7 +149,7 @@ Antes de hacer clic en "Submit" en Label Studio y entregar tu reflexión, verifi
 |----------------|--------------|----------------|
 | **Completitud de anotaciones** (1 punto) | Excelente: Todas las anotaciones incluyen dimensión, tipo, severidad y comentarios detallados; evaluación holística completa<br><br>Bueno: La mayoría de anotaciones están completas; puede faltar información ocasionalmente<br><br>Insuficiente: Muchas anotaciones incompletas o falta evaluación holística | 1 punto<br><br>0.5 puntos<br><br>0 puntos |
 | **Precisión de anotaciones** (1 punto) | Excelente: Identificación precisa de errores; categorización apropiada según MQM; niveles de severidad bien justificados<br><br>Bueno: Generalmente preciso con algunos errores de categorización; severidad mayormente apropiada<br><br>Insuficiente: Muchos errores mal categorizados; severidad inadecuada; confusión con preferencias personales | 1 punto<br><br>0.5 puntos<br><br>0 puntos |
-| **Reflexión crítica** (1 punto) | Excelente: Reflexión profunda que demuestra pensamiento crítico; aborda todas las preguntas; incluye análisis significativo del proceso<br><br>Bueno: Reflexión superficial pero completa; aborda las preguntas básicamente; análisis limitado<br><br>Insuficiente: Reflexión muy breve o superficial; no aborda las preguntas; falta pensamiento crítico | 1 punto<br><br>0.5 puntos<br><br>0 puntos |
+| **Reflexión crítica** (OPCIONAL - 1 punto) | Excelente: Reflexión profunda que demuestra pensamiento crítico; aborda todas las preguntas; incluye análisis significativo del proceso<br><br>Bueno: Reflexión superficial pero completa; aborda las preguntas básicamente; análisis limitado<br><br>Insuficiente: Reflexión muy breve o superficial; no aborda las preguntas; falta pensamiento crítico | 1 punto<br><br>0.5 puntos<br><br>0 puntos |
 
 ### Notas Sobre la Evaluación
 
@@ -187,7 +187,7 @@ No dudes en pedir aclaraciones—es mejor preguntar que hacer suposiciones incor
    - Debe hacer clic en "Submit" para entregar
    - No hay archivo separado que descargar/subir
 
-2. **Reflexión escrita**
+2. **Reflexión escrita** (OPCIONAL)
    - 1-2 párrafos (150-300 palabras)
    - Subida como comentario en la tarea de Teams
    - Fecha límite: [Fecha indicada en Teams]
