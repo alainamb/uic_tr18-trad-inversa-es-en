@@ -34,7 +34,7 @@ El proyecto completo incluye cuatro documentos:
 
 | **Para equipos de 3 personas** | **Para equipos de 2 personas** |
 | ------------------------------ | ------------------------------ |
-| - **Persona 1:** Carta + Decreto (documentos oficiales)<br>- **Persona 2:** Noticia 1<br>- **Persona 3:** Noticia 2 | - **Persona 1:** Carta + Decreto (documentos oficiales)<br>- **Persona 2:** Noticia 1 + Noticia 2 (artículos periodísticos) |
+| - **Persona 1:** Carta + Decreto (documentos oficiales - muchas repeticiones)<br>- **Persona 2:** Noticia 1<br>- **Persona 3:** Noticia 2 | - **Persona 1:** Carta + Decreto (documentos oficiales - muchas repeticiones)<br>- **Persona 2:** Noticia 1 (artículo periodístico) |
 
 ## Trabajo en Lilt
 
@@ -114,6 +114,7 @@ Nombres de todas las integrantes e integrantes con documentos específicos asign
 | Revisión cruzada de traducciones | | | |
 | Ajustes de consistencia | | | |
 | Documentación y entrega | | | |
+
 **Total de horas para cada miembro del grupo:** [Suma total]
 **Total de horas del proyecto:** [Suma total]
 
