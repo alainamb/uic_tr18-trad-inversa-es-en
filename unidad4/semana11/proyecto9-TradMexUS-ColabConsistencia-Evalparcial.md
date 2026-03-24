@@ -20,7 +20,7 @@ Trabajando en el mismo equipo de la semana pasada, traducirán documentos oficia
 
 ### El texto a traducir
 
-**[Texto 8: Ingreso de Militares de EUA a México](ingreso-de-militares-de-EUA-a-México.md)**
+**[Texto 8: Ingreso de Militares de EUA a México](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana11/ingreso-de-militares-de-EUA-a-México.md)**
 
 El proyecto completo incluye cuatro documentos:
 1. **Carta** - Comunicado oficial de la Presidencia (~550 palabras)
@@ -36,42 +36,36 @@ El proyecto completo incluye cuatro documentos:
 | ------------------------------ | ------------------------------ |
 | - **Persona 1:** Carta + Decreto (documentos oficiales - muchas repeticiones)<br>- **Persona 2:** Noticia 1<br>- **Persona 3:** Noticia 2 | - **Persona 1:** Carta + Decreto (documentos oficiales - muchas repeticiones)<br>- **Persona 2:** Noticia 1 (artículo periodístico) |
 
-## Trabajo en Lilt
-
-### Entrenamiento continuo del modelo de Lilt
-Cada integrante del equipo trabajará en Lilt con el o los documentos asignados. Los grupos trabajarán dentro del mismo proyecto y con un modelo AI compartido. Su modelo de Lilt continuará aprendiéndose de sus traducciones. A medida que traduzcan, presten atención a:
-- ¿Cómo refleja el modelo las decisiones terminológicas que han tomado previamente?
-- ¿Reconocen su estilo de traducción en las sugerencias del modelo?
-- ¿Qué patrones consistentes observan entre las sugerencias del modelo y sus preferencias de traducción?
-
 ## Proceso del proyecto
 
 #### Fase 1: Coordinación inicial del equipo
-1. **Reunión de planificación:** Acuerden terminología clave y enfoque de traducción
+1. **Reunión de planificación:** Pónganse de acuerdo sobre quién traducirá qué documento, la terminología clave y el enfoque de traducción
 2. **Análisis de textos:** Identifiquen términos recurrentes, diferencias de registro entre documentos oficiales y periodísticos
 3. **Creación de glosario preliminar:** Desarrollen un glosario compartido antes de comenzar la traducción
 
 #### Fase 2: Traducción colaborativa
-1. **Traducción individual:** Cada persona traduce su(s) documento(s) asignado(s) en Lilt
+1. **Traducción individual:** Cada persona traduce su(s) documento(s) asignado(s)
 2. **Consulta continua:** Comuníquense durante el proceso sobre decisiones terminológicas
 3. **Observación del modelo:** Documenten cómo el modelo refleja sus decisiones anteriores
 
 #### Fase 3: Revisión cruzada y consistencia
-1. **Revisión entre pares:** Revisen las traducciones de sus compañeras y compañeros en Lilt
+1. **Revisión por el equipo:** Revisen las traducciones de cada integrante para que el proyecto forme un conjunto cohesivo
 2. **Verificación de consistencia:** Aseguren que la terminología y el estilo sean consistentes entre todos los documentos
 3. **Ajustes finales:** Corrijan inconsistencias antes de marcar como completo
 
 #### Fase 4: Documentación y reflexión
 1. **Análisis de consistencia:** Documenten cómo mantuvieron coherencia entre las traducciones
-2. **Observación del modelo GAI:** Reflexionen sobre la influencia de sus traducciones en el modelo de Lilt
+2. **Observación del flujo de trabajo:** Reflexionen sobre la diferencia en traducir este tipo contenido a mano en comparación de traducirlo en Lilt
 3. **Preparación de entrega:** Completen todos los entregables según especificaciones
 
 ## Entregables
 
-### 1. Traducciones completas en Lilt
-- Todos los documentos asignados marcados como "Complete" en Lilt
-- Consistencia terminológica entre los cuatro documentos
+### 1. Traducciones completas en un solo documento .md (Markdown)
+- Archivo .md único que reúna todas las traducciones y corresponda al texto fuente original
+- Consistencia terminológica entre los tres/cuatro documentos
 - Calidad profesional apropiada para cada tipo de texto
+
+**Nombre del archivo:** `Apellidos_proyecto9-traducción.md`
 
 ### 2. Glosario bilingüe especializado
 Archivo Excel (.xlsx) con las siguientes columnas:
@@ -90,7 +84,7 @@ Archivo Excel (.xlsx) con las siguientes columnas:
 - **Equipos de 2 personas:** 4-5 términos bilingües
 - **Equipos de 3 personas:** 5-6 términos bilingües
 
-**Nombre del archivo:** `Apellido1_Apellido2_(Apellido3)_texto8-glosario.xlsx`
+**Nombre del archivo:** `Apellidos_proyecto9-glosario.xlsx`
 
 ### 3. Documentación del proceso grupal
 Archivo MS Word con las siguientes secciones:
@@ -123,23 +117,11 @@ Nombres de todas las integrantes e integrantes con documentos específicos asign
 
 Respondan a las siguientes preguntas:
 
-1. **Mantenimiento de consistencia:** ¿Cómo lograron mantener consistencia terminológica y estilística entre los diferentes documentos y traductoras/traductores? Sean específicos sobre las estrategias utilizadas.
+1. **Cohesión de las traducciones:** ¿De qué manera funcionan sus traducciones como una unidad cohesiva? ¿Qué decisiones clave tomaron para garantizar esta cohesión? ¿Cómo manejaron las diferencias de registro entre documentos oficiales (Carta y Decreto) y periodísticos (Noticias 1 y 2), manteniendo la cohesión del proyecto? Proporcionen ejemplos específicos.
 
-2. **Cohesión de las traducciones:** ¿Por qué sus traducciones funcionan como una unidad cohesiva? ¿Qué decisiones clave tomaron para asegurar esta cohesión?
+2. **Influencia del entorno de traducción:** Comparación específica entre traducir en Lilt y traducir a mano, observaciones concretas sobre cómo el entorno influyó en decisiones estilísticas, ejemplos específicos de ambos proyectos
 
-3. **Desafíos de registro:** ¿Cómo manejaron las diferencias de registro entre documentos oficiales (Carta y Decreto) y periodísticos (Noticias 1 y 2)?
-
-#### Reflexión sobre el modelo GAI de Lilt (200-250 palabras)
-
-Respondan a las siguientes preguntas:
-
-1. **Influencia en el modelo:** ¿Observaron que el modelo de Lilt reflejaba decisiones terminológicas o estilísticas que habían tomado en traducciones anteriores? Proporcionen ejemplos específicos.
-
-2. **Patrones reconocibles:** ¿Identificaron algún patrón consistente entre las sugerencias del modelo y sus preferencias de traducción como equipo?
-
-3. **Evolución del modelo:** ¿Cómo ha cambiado el desempeño del modelo desde que comenzaron a trabajar con él? ¿Se ha adaptado a su estilo de traducción?
-
-**Nombre del archivo:** `Apellido1_Apellido2_(Apellido3)_texto8-reflexion.docx`
+**Nombre del archivo:** `Apellidos_proyecto9-reflexion.docx`
 
 ## Criterios de evaluación
 
@@ -164,8 +146,8 @@ Después de evaluar los errores individuales en la traducción, sus textos recib
 
 #### Reflexión y documentación (3 puntos)
 - **Registro de tiempo y completitud** (1 punto): Documentación completa del flujo de trabajo, distribución equitativa de tareas, inversiones de tiempo apropiadas
-- **Reflexión sobre consistencia** (1 punto): Análisis claro de estrategias para mantener cohesión entre traducciones, explicación convincente de por qué funcionan como unidad
-- **Reflexión sobre modelo GAI** (1 punto): Observaciones específicas sobre cómo el modelo refleja decisiones anteriores, ejemplos concretos, análisis de evolución del modelo
+- **Reflexión sobre cohesión** (1 punto): Análisis claro de estrategias para mantener cohesión entre traducciones, explicación convincente de por qué funcionan como unidad
+- **Reflexión sobre el entorno de traducción** (1 punto): Observaciones específicas sobre cómo el modelo refleja decisiones anteriores, ejemplos concretos, análisis de evolución del modelo
 
 #### Profesionalismo general (1 punto)
 - Archivos nombrados correctamente
