@@ -90,7 +90,7 @@ Archivo Excel (.xlsx) con las siguientes columnas:
 Archivo MS Word con las siguientes secciones:
 
 #### Información del equipo
-Nombres de todas las integrantes e integrantes con documentos específicos asignados a cada persona
+Nombres de todas las personas en el equipo con los documentos específicos asignados a cada persona
 
 #### Registro detallado de tiempo y tareas
 
