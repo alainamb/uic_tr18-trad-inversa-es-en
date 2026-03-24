@@ -116,6 +116,7 @@ Nombres de todas las integrantes e integrantes con documentos específicos asign
 | Documentación y entrega | | | |
 
 **Total de horas para cada miembro del grupo:** [Suma total]
+
 **Total de horas del proyecto:** [Suma total]
 
 #### Reflexión del equipo sobre consistencia (200-250 palabras)
