@@ -12,8 +12,6 @@ nav_order: 3
 
 **Modalidad:** Grupos de 2 o 3 estudiantes
 
-**Fecha de entrega:** Domingo, 2 de noviembre de 2025
-
 ## Descripción del proyecto
 
 En esta asignación, tu grupo realizará una evaluación MQM completa de una traducción automática del documento "Monitor Comercial del T-MEC - EE.UU. - Julio 2025" utilizando Label Studio. Después, implementará las correcciones identificadas usando control de cambios en MS Word.
@@ -26,9 +24,11 @@ Al final, reflexionarán como grupo sobre una pregunta crítica: ¿Fueron los co
 
 ### El texto a evaluar
 
-- La traducción automática de **[Texto 9: Monitor Comercial del T-MEC - EE.UU. - Julio 2025](./monitor-comercial-t-mec-eeuu.md)**
+- La traducción automática de una selección de [Monitor Comercial del T-MEC - EE.UU. - Julio 2025](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/referencias/T-MEC_Monitor-Comercial_MEX-EEUU_Julio-2025.pdf)
+- Texto fuente: [Selección del reporte](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/referencias/T-MEC-TextoFuente.pdf)
+- La traducción automática: En [formato markdown](./monitor-comercial-t-mec-eeuu.md) y en [formato MS Word]
 
-Este texto de aproximadamente 600 palabras presenta datos sobre los flujos comerciales entre México y Estados Unidos durante los primeros siete meses de 2025.
+Este texto de aproximadamente 600 palabras presenta datos sobre los flujos comerciales entre México y Estados Unidos durante los primeros seis meses de 2025.
 
 ### Opciones de configuración de grupos
 
@@ -39,7 +39,7 @@ Este texto de aproximadamente 600 palabras presenta datos sobre los flujos comer
 **Grupos de 3 estudiantes:**
 - **Estudiante A**: Evaluación MQM en Label Studio
 - **Estudiante B**: Implementación de correcciones en MS Word
-- **Estudiante C**: Implementación de correcciones en MS Word (revisión paralela o secuencial)
+- **Estudiante C**: Implementación de correcciones en MS Word (en un documento diferente que el documento de Estudiante B)
 
 ## Proceso del proyecto
 
