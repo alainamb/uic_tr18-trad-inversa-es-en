@@ -24,9 +24,9 @@ Al final, reflexionarán como grupo sobre una pregunta crítica: ¿Fueron los co
 
 ### El texto a evaluar
 
-- La traducción automática de una selección de [Monitor Comercial del T-MEC - EE.UU. - Julio 2025](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/referencias/T-MEC_Monitor-Comercial_MEX-EEUU_Julio-2025.pdf)
-- Texto fuente: [Selección del reporte](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/referencias/T-MEC-TextoFuente.pdf)
-- La traducción automática: En [formato markdown](./monitor-comercial-t-mec-eeuu.md) y en [formato MS Word](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/referencias/T-MEC-TraducciónAutomática.zip) (para implementar las correcciones usando los *Track Changes* de MS Word)
+- La traducción automática de una selección de **[Monitor Comercial del T-MEC - EE.UU. - Julio 2025](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/referencias/T-MEC_Monitor-Comercial_MEX-EEUU_Julio-2025.pdf)**
+- **Texto fuente:** [Selección del reporte](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/referencias/T-MEC-TextoFuente.pdf)
+- **La traducción automática:** En [formato markdown](./monitor-comercial-t-mec-eeuu.md) y en [formato MS Word](https://github.com/alainamb/uic_tr18-trad-inversa-es-en/blob/main/unidad4/semana12/referencias/T-MEC-TraducciónAutomática.zip) (para implementar las correcciones usando los *Track Changes* de MS Word)
 
 Este texto de aproximadamente 600 palabras presenta datos sobre los flujos comerciales entre México y Estados Unidos durante los primeros seis meses de 2025.
 
