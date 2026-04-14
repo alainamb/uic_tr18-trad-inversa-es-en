@@ -10,6 +10,7 @@ Les damos la bienvenida a TR18: Traducción Inversa A>B (Español-MX>Inglés-US)
 
 ## 📱 Comunicación del Curso
 **Profesora**: Alaina Brandt
+
 **LinkedIn**: [linkedin.com/in/alainambrandt/](https://www.linkedin.com/in/alainambrandt/)<br>
 
 ## 🎯 Objetivos del Aprendizaje
